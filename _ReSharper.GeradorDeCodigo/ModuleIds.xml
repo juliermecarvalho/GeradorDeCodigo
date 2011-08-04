@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="3E0F4331-2A49-4286-8AC3-5393B3C9C889" ModuleId="GeradorDeCodigo.Infra" />
+  <Module PersistentId="27F02143-1CD2-4E3C-BB70-E36697FC0115" ModuleId="GeradorDeCodigo.Teste" />
+  <Module PersistentId="D552EC80-0E25-4F42-B255-06ABC9B96A88" ModuleId="GeradorDeCodigo.Dominio" />
+  <Module PersistentId="2BFF0AA4-A24C-4257-9A66-AFDA888C548E" ModuleId="GeradorDeCodigo.App" />
+</Modules>

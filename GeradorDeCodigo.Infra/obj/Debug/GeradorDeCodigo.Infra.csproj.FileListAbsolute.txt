@@ -1,0 +1,28 @@
+c:\documents and settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Infra\bin\Debug\GeradorDeCodigo.Infra.dll
+c:\documents and settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Infra\bin\Debug\GeradorDeCodigo.Infra.pdb
+c:\documents and settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Infra\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Infra\obj\Debug\GeradorDeCodigo.Infra.rewritten
+c:\documents and settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Infra\obj\Debug\GeradorDeCodigo.Infra.dll
+c:\documents and settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Infra\obj\Debug\GeradorDeCodigo.Infra.pdb
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Infra\bin\Debug\GeradorDeCodigo.Infra.dll
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Infra\bin\Debug\GeradorDeCodigo.Infra.pdb
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Infra\obj\Debug\ResolveAssemblyReference.cache
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Infra\obj\Debug\GeradorDeCodigo.Infra.dll
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Infra\obj\Debug\GeradorDeCodigo.Infra.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Infra\bin\Debug\GeradorDeCodigo.Infra.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Infra\bin\Debug\GeradorDeCodigo.Infra.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Infra\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Infra\obj\Debug\GeradorDeCodigo.Infra.rewritten
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Infra\obj\Debug\GeradorDeCodigo.Infra.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Infra\obj\Debug\GeradorDeCodigo.Infra.pdb
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Infra\obj\Debug\GeradorDeCodigo.Infra.rewritten
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Infra\bin\Debug\GeradorDeCodigo.Infra.dll
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Infra\bin\Debug\GeradorDeCodigo.Infra.pdb
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Infra\obj\Debug\ResolveAssemblyReference.cache
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Infra\obj\Debug\GeradorDeCodigo.Infra.dll
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Infra\obj\Debug\GeradorDeCodigo.Infra.pdb
+F:\GeradorDeCodigo\GeradorDeCodigo.Infra\bin\Debug\GeradorDeCodigo.Infra.dll
+F:\GeradorDeCodigo\GeradorDeCodigo.Infra\bin\Debug\GeradorDeCodigo.Infra.pdb
+F:\GeradorDeCodigo\GeradorDeCodigo.Infra\obj\Debug\ResolveAssemblyReference.cache
+F:\GeradorDeCodigo\GeradorDeCodigo.Infra\obj\Debug\GeradorDeCodigo.Infra.dll
+F:\GeradorDeCodigo\GeradorDeCodigo.Infra\obj\Debug\GeradorDeCodigo.Infra.pdb

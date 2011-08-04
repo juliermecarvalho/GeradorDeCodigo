@@ -1,0 +1,76 @@
+c:\documents and settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Dominio.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Infra.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Dominio.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Infra.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\obj\Debug\GeradorDeCodigo.Teste.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\obj\Debug\GeradorDeCodigo.Teste.pdb
+C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\Gallio.dll
+C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\MbUnit.dll
+C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\Gallio.pdb
+C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\Gallio.xml
+C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\MbUnit.pdb
+C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\MbUnit.xml
+C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\Gallio.XmlSerializers.dll
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.pdb
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Dominio.dll
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Infra.dll
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Dominio.pdb
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Infra.pdb
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\obj\Debug\ResolveAssemblyReference.cache
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\obj\Debug\GeradorDeCodigo.Teste.dll
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\obj\Debug\GeradorDeCodigo.Teste.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\Gallio.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Dominio.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Infra.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\MbUnit.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Dominio.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Infra.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\Gallio.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\Gallio.xml
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\MbUnit.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\MbUnit.xml
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\Gallio.XmlSerializers.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\obj\Debug\GeradorDeCodigo.Teste.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\obj\Debug\GeradorDeCodigo.Teste.pdb
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\Gallio.pdb
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\Gallio.xml
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\MbUnit.pdb
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\MbUnit.xml
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\Gallio.XmlSerializers.dll
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.pdb
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Dominio.dll
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Infra.dll
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Dominio.pdb
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Infra.pdb
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\Gallio.pdb
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\Gallio.xml
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\MbUnit.pdb
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\MbUnit.xml
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\Gallio.XmlSerializers.dll
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\obj\Debug\ResolveAssemblyReference.cache
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\obj\Debug\GeradorDeCodigo.Teste.dll
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\obj\Debug\GeradorDeCodigo.Teste.pdb
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\Gallio.dll
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\MbUnit.dll
+F:\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll
+F:\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.pdb
+F:\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Dominio.dll
+F:\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Infra.dll
+F:\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Dominio.pdb
+F:\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Infra.pdb
+F:\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\Gallio.pdb
+F:\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\Gallio.xml
+F:\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\MbUnit.pdb
+F:\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\MbUnit.xml
+F:\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\Gallio.XmlSerializers.dll
+F:\GeradorDeCodigo\GeradorDeCodigo.Teste\obj\Debug\ResolveAssemblyReference.cache
+F:\GeradorDeCodigo\GeradorDeCodigo.Teste\obj\Debug\GeradorDeCodigo.Teste.dll
+F:\GeradorDeCodigo\GeradorDeCodigo.Teste\obj\Debug\GeradorDeCodigo.Teste.pdb

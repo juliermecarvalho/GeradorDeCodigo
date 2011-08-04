@@ -1,0 +1,68 @@
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.App.exe
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.App.pdb
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\MainWindow.baml
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\MainWindow.g.cs
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\App.g.cs
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App_MarkupCompile.cache
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App.g.resources
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App.Properties.Resources.resources
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App.exe
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App.exe
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.App.exe
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.App.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App_MarkupCompile.cache
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App.g.resources
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App.Properties.Resources.resources
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.Dominio.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.Infra.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.Dominio.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.Infra.pdb
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.Dominio.dll
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.Infra.dll
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.Dominio.pdb
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.Infra.pdb
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.App.exe
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.App.pdb
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.Dominio.dll
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.Infra.dll
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.Dominio.pdb
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.Infra.pdb
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\MainWindow.baml
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\MainWindow.g.cs
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\App.g.cs
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App_MarkupCompile.cache
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App.g.resources
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App.Properties.Resources.resources
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App.exe
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App.pdb
+F:\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App.exe
+F:\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App.pdb
+F:\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.App.exe
+F:\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.App.pdb
+F:\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.Dominio.dll
+F:\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.Infra.dll
+F:\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.Dominio.pdb
+F:\GeradorDeCodigo\GeradorDeCodigo.App\bin\Debug\GeradorDeCodigo.Infra.pdb
+F:\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\MainWindow.baml
+F:\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\MainWindow.g.cs
+F:\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\App.g.cs
+F:\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App_MarkupCompile.cache
+F:\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App.g.resources
+F:\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GeradorDeCodigo.App.Properties.Resources.resources
+F:\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\GeradorDeCodigo\GeradorDeCodigo.App\obj\x86\Debug\GenerateResource.write.1.tlog

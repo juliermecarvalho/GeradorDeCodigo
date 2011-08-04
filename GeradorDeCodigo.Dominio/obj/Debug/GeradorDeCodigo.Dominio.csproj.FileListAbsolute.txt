@@ -1,0 +1,37 @@
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Dominio\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Dominio.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Dominio.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Dominio\obj\Debug\GeradorDeCodigo.Dominio.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Dominio\obj\Debug\GeradorDeCodigo.Dominio.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Dominio\obj\Debug\GeradorDeCodigo.Dominio.rewritten
+C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Infra.dll
+C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Infra.pdb
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Dominio.dll
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Dominio.pdb
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Infra.dll
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Infra.pdb
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\obj\Debug\ResolveAssemblyReference.cache
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\obj\Debug\GeradorDeCodigo.Dominio.dll
+F:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\obj\Debug\GeradorDeCodigo.Dominio.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Dominio.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Dominio.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Infra.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Infra.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\obj\Debug\GeradorDeCodigo.Dominio.rewritten
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\obj\Debug\GeradorDeCodigo.Dominio.dll
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2010\Projects\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\obj\Debug\GeradorDeCodigo.Dominio.pdb
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Dominio.dll
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Dominio.pdb
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Infra.dll
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Infra.pdb
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\obj\Debug\ResolveAssemblyReference.cache
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\obj\Debug\GeradorDeCodigo.Dominio.dll
+D:\GeradorDeCodigoTDD\GeradorDeCodigo\GeradorDeCodigo.Dominio\obj\Debug\GeradorDeCodigo.Dominio.pdb
+F:\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Dominio.dll
+F:\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Dominio.pdb
+F:\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Infra.dll
+F:\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Infra.pdb
+F:\GeradorDeCodigo\GeradorDeCodigo.Dominio\obj\Debug\ResolveAssemblyReference.cache
+F:\GeradorDeCodigo\GeradorDeCodigo.Dominio\obj\Debug\GeradorDeCodigo.Dominio.dll
+F:\GeradorDeCodigo\GeradorDeCodigo.Dominio\obj\Debug\GeradorDeCodigo.Dominio.pdb

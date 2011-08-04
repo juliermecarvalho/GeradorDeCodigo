@@ -1,0 +1,576 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2BFF0AA4-A24C-4257-9A66-AFDA888C548E/f:MainWindow.xaml" caret="5412" fromTop="2" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Conexao/f:ConexaoOracle.cs" caret="0" fromTop="0" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Conexao/f:StringConexao.cs" caret="597" fromTop="21" />
+      <File id="27F02143-1CD2-4E3C-BB70-E36697FC0115/d:Domino/d:TrataNomeTeste/f:TrataNomeTeste.cs" caret="40" fromTop="0" />
+      <File id="27F02143-1CD2-4E3C-BB70-E36697FC0115/d:Infra/d:MetadadosTeste/f:TabelasECamposSqlServerTeste.cs" caret="13" fromTop="0" />
+      <File id="27F02143-1CD2-4E3C-BB70-E36697FC0115/d:Infra/d:Conexao/f:FactoryConexaoTeste.cs" caret="13" fromTop="0" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Enun/f:TipoDeBancoDados.cs" caret="59" fromTop="2" />
+      <File id="27F02143-1CD2-4E3C-BB70-E36697FC0115/d:Infra/d:Conexao/f:StringConexaoTeste.cs" caret="371" fromTop="14" />
+      <File id="2BFF0AA4-A24C-4257-9A66-AFDA888C548E/f:MainWindow.xaml.cs" caret="6915" fromTop="25" />
+      <File id="27F02143-1CD2-4E3C-BB70-E36697FC0115/d:Infra/d:Conexao/f:ConexaoSqlServerTeste.cs" caret="0" fromTop="0" />
+      <File id="2BFF0AA4-A24C-4257-9A66-AFDA888C548E/f:App.xaml" caret="0" fromTop="0" />
+      <File id="27F02143-1CD2-4E3C-BB70-E36697FC0115/d:Domino/d:GeraArquivo/f:GeraArquivoTeste.cs" caret="0" fromTop="0" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:TrataNome/f:TrataNome.cs" caret="0" fromTop="0" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:GeraArquivo/f:ReferenciaAsDLLNHiberante.cs" caret="1042" fromTop="0" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:GeraArquivo/f:MoverArquivos.cs" caret="0" fromTop="0" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:GeraArquivo/f:GeraXmlDeConfigNHibernate.cs" caret="0" fromTop="0" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:GeraArquivo/f:GeraRepositorio.cs" caret="0" fromTop="0" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:GeraArquivo/f:GeraNHibernateHelpe.cs" caret="0" fromTop="0" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:GeraArquivo/f:GeraMapeamentos.cs" caret="0" fromTop="0" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Conexao/f:FactoryConexao.cs" caret="158" fromTop="8" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Conexao/f:IConexao.cs" caret="82" fromTop="4" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Metadados/f:TabelasECamposFactory.cs" caret="0" fromTop="0" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:TrataNome/f:ConvertParaTipoCShap.cs" caret="3074" fromTop="31" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Metadados/f:ITabelasECampos.cs" caret="0" fromTop="0" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:GeraArquivo/f:GeraArquivo.cs" caret="1058" fromTop="0" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:GeraArquivo/f:GeraEntidades.cs" caret="2694" fromTop="28" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Conexao/f:ConexaoSqlServer.cs" caret="547" fromTop="23" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Metadados/f:TabelasECamposSqlServer.cs" caret="28350" fromTop="25" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:GeraArquivo/f:GeraEntidades.cs" caret="615" fromTop="11" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:GeraArquivo/f:GeraEntidades.cs" caret="6216" fromTop="18" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:GeraArquivo/f:GeraEntidades.cs" caret="2377" fromTop="23" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:GeraArquivo/f:GeraEntidades.cs" caret="2546" fromTop="28" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Conexao/f:IConexao.cs" caret="248" fromTop="9" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Conexao/f:ConexaoSqlServer.cs" caret="1222" fromTop="21" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Conexao/f:ConexaoSqlServer.cs" caret="1574" fromTop="35" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Conexao/f:ConexaoSqlServer.cs" caret="496" fromTop="15" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Conexao/f:ConexaoSqlServer.cs" caret="236" fromTop="7" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Conexao/f:ConexaoSqlServer.cs" caret="425" fromTop="11" />
+      <File id="27F02143-1CD2-4E3C-BB70-E36697FC0115/d:Domino/d:GeraArquivo/f:GeraArquivoTeste.cs" caret="618" fromTop="21" />
+      <File id="27F02143-1CD2-4E3C-BB70-E36697FC0115/d:Infra/d:Conexao/f:StringConexaoTeste.cs" caret="2488" fromTop="18" />
+      <File id="27F02143-1CD2-4E3C-BB70-E36697FC0115/d:Infra/d:Conexao/f:StringConexaoTeste.cs" caret="2601" fromTop="24" />
+      <File id="27F02143-1CD2-4E3C-BB70-E36697FC0115/d:Infra/d:Conexao/f:StringConexaoTeste.cs" caret="2829" fromTop="33" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:GeraArquivo/f:GeraArquivo.cs" caret="2845" fromTop="7" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:GeraArquivo/f:GeraRepositorio.cs" caret="89" fromTop="4" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:GeraArquivo/f:MoverArquivos.cs" caret="508" fromTop="8" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:GeraArquivo/f:MoverArquivos.cs" caret="847" fromTop="16" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Metadados/f:TabelasECamposSqlServer.cs" caret="24259" fromTop="33" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Metadados/f:TabelasECamposSqlServer.cs" caret="23685" fromTop="21" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Metadados/f:TabelasECamposSqlServer.cs" caret="23899" fromTop="47" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Metadados/f:TabelasECamposSqlServer.cs" caret="7022" fromTop="16" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Metadados/f:TabelasECamposSqlServer.cs" caret="7494" fromTop="25" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Metadados/f:TabelasECamposSqlServer.cs" caret="7326" fromTop="21" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Metadados/f:TabelasECamposSqlServer.cs" caret="7760" fromTop="31" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:TrataNome/f:ConvertParaTipoCShap.cs" caret="1885" fromTop="9" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:TrataNome/f:ConvertParaTipoCShap.cs" caret="3074" fromTop="31" />
+      <File id="D552EC80-0E25-4F42-B255-06ABC9B96A88/d:GeraArquivo/f:GeraEntidades.cs" caret="2694" fromTop="31" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Metadados/f:TabelasECamposSqlServer.cs" caret="1922" fromTop="5" />
+      <File id="3E0F4331-2A49-4286-8AC3-5393B3C9C889/d:Metadados/f:TabelasECamposSqlServer.cs" caret="2582" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="factoryConexao" priority="2" />
+      <Item value="FactoryConexao`0" priority="3" />
+      <Item value="new" priority="44" />
+      <Item value="FactoryConexao" priority="0" />
+      <Item value="enum" priority="0" />
+      <Item value="Assert`0" priority="19" />
+      <Item value="typeof" priority="8" />
+      <Item value="conexao" priority="2" />
+      <Item value="tipoDeBancoDados" priority="10" />
+      <Item value="Sqlserver" priority="1" />
+      <Item value="return" priority="31" />
+      <Item value="public" priority="31" />
+      <Item value="IConexao`0" priority="5" />
+      <Item value="null" priority="4" />
+      <Item value="else" priority="12" />
+      <Item value="if" priority="26" />
+      <Item value="Oracle" priority="0" />
+      <Item value="ConexaoOracle`0" priority="1" />
+      <Item value="ConexaoSqlServer`0" priority="1" />
+      <Item value="TipoDeBancoDados`0" priority="9" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="ExpectedException" priority="0" />
+      <Item value="AllowDerivedTypes" priority="0" />
+      <Item value="false" priority="8" />
+      <Item value="stringConexao" priority="0" />
+      <Item value="StringConexao" priority="0" />
+      <Item value="var" priority="33" />
+      <Item value="Source" priority="1" />
+      <Item value="StringConexao`0" priority="4" />
+      <Item value="id" priority="0" />
+      <Item value="password" priority="2" />
+      <Item value="catalog" priority="2" />
+      <Item value="string" priority="98" />
+      <Item value="source" priority="4" />
+      <Item value="const" priority="8" />
+      <Item value="EnvironmentVariableTarget`0" priority="0" />
+      <Item value="TrataNome" priority="20" />
+      <Item value="trataNome" priority="10" />
+      <Item value="trataCampos" priority="0" />
+      <Item value="using" priority="6" />
+      <Item value="GeradorDeCodigo" priority="4" />
+      <Item value="Domino" priority="0" />
+      <Item value="TrataNomeTeste`0" priority="0" />
+      <Item value="Dominio" priority="3" />
+      <Item value="nome" priority="13" />
+      <Item value="bool" priority="11" />
+      <Item value="RetiraSNoFim`0" priority="0" />
+      <Item value="ConverteParaMinisculo`0" priority="0" />
+      <Item value="true" priority="10" />
+      <Item value="retirar" priority="0" />
+      <Item value="TestMethod" priority="1" />
+      <Item value="void" priority="12" />
+      <Item value="TrataNome`0" priority="9" />
+      <Item value="tratanome" priority="0" />
+      <Item value="ConverteParaMaisculo`0" priority="0" />
+      <Item value="cultureinfo" priority="0" />
+      <Item value="porta" priority="2" />
+      <Item value="host" priority="0" />
+      <Item value="servename" priority="1" />
+      <Item value="private" priority="23" />
+      <Item value="geraArquivo" priority="11" />
+      <Item value="directoryInfo" priority="2" />
+      <Item value="DirectoryInfo" priority="0" />
+      <Item value="caminho" priority="17" />
+      <Item value="verifica" priority="0" />
+      <Item value="Directory`0" priority="1" />
+      <Item value="VerificaSeDiretorioExiste`0" priority="0" />
+      <Item value="DirectoryInfo`0" priority="1" />
+      <Item value="Test`0" priority="5" />
+      <Item value="TestFixture" priority="3" />
+      <Item value="MbUnit" priority="1" />
+      <Item value="Framework" priority="1" />
+      <Item value="Exception`0" priority="9" />
+      <Item value="delegate" priority="2" />
+      <Item value="Assert" priority="1" />
+      <Item value="int" priority="1" />
+      <Item value="RetornaQuantidadeDeArquivosDeUmDiretorio`0" priority="0" />
+      <Item value="arquivos" priority="0" />
+      <Item value="Count`1" priority="0" />
+      <Item value="Teste" priority="0" />
+      <Item value="_caminho" priority="8" />
+      <Item value="IEnumerable" priority="7" />
+      <Item value="IList" priority="2" />
+      <Item value="List" priority="7" />
+      <Item value="tabelas" priority="7" />
+      <Item value="foreach" priority="9" />
+      <Item value="File`0" priority="1" />
+      <Item value="tabela" priority="16" />
+      <Item value="caminhoCompleto" priority="2" />
+      <Item value="RetiraS" priority="8" />
+      <Item value="Test" priority="0" />
+      <Item value="GeraArquivo" priority="0" />
+      <Item value="GeraArquivo`0" priority="1" />
+      <Item value="List&lt;string&gt;" priority="2" />
+      <Item value="CriaArquivosNoDiretorio`0" priority="0" />
+      <Item value="this" priority="14" />
+      <Item value="Text" priority="0" />
+      <Item value="StringBuilder`0" priority="10" />
+      <Item value="StringBuilder" priority="7" />
+      <Item value="s" priority="1" />
+      <Item value="stringBuilder" priority="102" />
+      <Item value="aFile" priority="0" />
+      <Item value="StreamReader`0" priority="0" />
+      <Item value="streamReader" priority="3" />
+      <Item value="StreamReader" priority="0" />
+      <Item value="var1" priority="1" />
+      <Item value="var2" priority="0" />
+      <Item value="retorna_o_conteudo_do_arquivo`0" priority="0" />
+      <Item value="while" priority="1" />
+      <Item value="linha" priority="1" />
+      <Item value="toReturn" priority="9" />
+      <Item value="list" priority="2" />
+      <Item value="namesPace" priority="11" />
+      <Item value="nomeTabela" priority="25" />
+      <Item value="campo" priority="13" />
+      <Item value="stringCampos" priority="1" />
+      <Item value="convertParaTipoCShap" priority="5" />
+      <Item value="ConvertParaTipoCShap" priority="4" />
+      <Item value="TipoBd" priority="0" />
+      <Item value="tipoBd" priority="5" />
+      <Item value="Contract`0" priority="0" />
+      <Item value="PropertyAltomaticas" priority="2" />
+      <Item value="campos" priority="9" />
+      <Item value="camopos" priority="0" />
+      <Item value="ContextStaticAttribute`0" priority="1" />
+      <Item value="_caminhoEntity" priority="2" />
+      <Item value="_caminhoInterface" priority="1" />
+      <Item value="_trataNome" priority="8" />
+      <Item value="EInterface" priority="0" />
+      <Item value="GeraEntidades`0" priority="1" />
+      <Item value="protected" priority="0" />
+      <Item value="Serializable" priority="0" />
+      <Item value="set" priority="0" />
+      <Item value="ESerializable" priority="1" />
+      <Item value="interface" priority="0" />
+      <Item value="Factoy" priority="0" />
+      <Item value="_tipoDeBancoDados" priority="18" />
+      <Item value="static" priority="1" />
+      <Item value="TabelasECamposSqlServerTeste`0" priority="1" />
+      <Item value="ITabelasECampos`0" priority="2" />
+      <Item value="teste" priority="1" />
+      <Item value="tabelasECamposSqlServer" priority="8" />
+      <Item value="t" priority="2" />
+      <Item value="CustomerID" priority="1" />
+      <Item value="CustomerTypeID" priority="0" />
+      <Item value="VerificaSeExisteTabela`0" priority="6" />
+      <Item value="SqlConnection`0" priority="8" />
+      <Item value="i" priority="4" />
+      <Item value="asrt" priority="1" />
+      <Item value="ContractVerificationAttribute`0" priority="1" />
+      <Item value="campos1" priority="3" />
+      <Item value="campos2" priority="0" />
+      <Item value="tipoDeCampoDaTabela" priority="1" />
+      <Item value="campo1" priority="0" />
+      <Item value="tabelasECampos" priority="0" />
+      <Item value="TabelasECamposFactory`0" priority="2" />
+      <Item value="byte" priority="0" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="float" priority="0" />
+      <Item value="txtLoginSqlServer" priority="2" />
+      <Item value="chkAuthentication" priority="2" />
+      <Item value="txtSenhaSqlServer" priority="2" />
+      <Item value="baseUri" priority="0" />
+      <Item value="openFileDialog" priority="1" />
+      <Item value="MessageBox`0" priority="2" />
+      <Item value="filename" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="pgbPrincipal" priority="0" />
+      <Item value="_tabelas" priority="0" />
+      <Item value="_namesPace" priority="0" />
+      <Item value="Thread`0" priority="0" />
+      <Item value="cmbDatabaseSqlServer" priority="2" />
+      <Item value="cmbServerNameSqlServer" priority="4" />
+      <Item value="ListaComaAsTabelas`0" priority="3" />
+      <Item value="listacomastabelas" priority="0" />
+      <Item value="_listacomastabelas" priority="2" />
+      <Item value="OK" priority="1" />
+      <Item value="tbcPrincipal" priority="0" />
+      <Item value="_tipoDeBanco" priority="6" />
+      <Item value="RetornaTipoDeBancoDeDados`0" priority="1" />
+      <Item value="Interface" priority="0" />
+      <Item value="GeraInterface" priority="1" />
+      <Item value="Exclamation" priority="0" />
+      <Item value="_sqlConnection" priority="0" />
+      <Item value="Connection`1" priority="0" />
+      <Item value="toRetrun" priority="0" />
+      <Item value="a" priority="0" />
+      <Item value="chkNHibernateHelp" priority="0" />
+      <Item value="entidades" priority="0" />
+      <Item value="GeraNHibernateHelpe`0" priority="0" />
+      <Item value="geraNHibernateHelpe" priority="1" />
+      <Item value="GeraNHibernateHelpe" priority="0" />
+      <Item value="_geraEntidades" priority="3" />
+      <Item value="GeraEntidades" priority="0" />
+      <Item value="GeraXmlDeConfigNHibernate`0" priority="0" />
+      <Item value="geraXmlDeConfigNHibernate" priority="0" />
+      <Item value="namesPaceEntidades" priority="0" />
+      <Item value="tabelasecampos" priority="1" />
+      <Item value="nomeNamespace" priority="0" />
+      <Item value="chkRetiraS" priority="0" />
+      <Item value="file" priority="0" />
+      <Item value="MoverArquivos`0" priority="0" />
+      <Item value="moverArquivos" priority="1" />
+      <Item value="MoverArquivos" priority="0" />
+      <Item value="Application`0" priority="1" />
+      <Item value="Path`0" priority="1" />
+      <Item value="path" priority="0" />
+      <Item value="PropertyPath`0" priority="0" />
+      <Item value="_tabelasECampos" priority="11" />
+      <Item value="GeraMapeamentos`0" priority="0" />
+      <Item value="readonly" priority="1" />
+      <Item value="_abre" priority="1" />
+      <Item value="_fecha" priority="1" />
+      <Item value="_convertParaTipoCShap" priority="5" />
+      <Item value="retiraS" priority="1" />
+      <Item value="try" priority="0" />
+      <Item value="TipoCShap`0" priority="0" />
+      <Item value="tipo" priority="0" />
+      <Item value="_namespaceEntidades" priority="2" />
+      <Item value="tipoCSharp" priority="4" />
+      <Item value="QuandoTemUmaChavePrimaria`0" priority="0" />
+      <Item value="ConvertParaTipoCShap`0" priority="0" />
+      <Item value="NameSpace" priority="1" />
+      <Item value="repositorio" priority="2" />
+      <Item value="geraRepositorio" priority="1" />
+      <Item value="GeraRepositorio" priority="0" />
+      <Item value="namesRopositorio" priority="0" />
+      <Item value="nameSpace" priority="1" />
+      <Item value="AppDomainSetup`0" priority="1" />
+      <Item value="GeraInterace" priority="1" />
+      <Item value="metodo" priority="0" />
+      <Item value="no" priority="7" />
+      <Item value="tipodedado" priority="1" />
+      <Item value="nomedocampo" priority="2" />
+      <Item value="Lazy" priority="0" />
+      <Item value="tabeCampo" priority="0" />
+      <Item value="fkTabela" priority="0" />
+      <Item value="e" priority="0" />
+      <Item value="exception" priority="5" />
+      <Item value="sealed" priority="0" />
+      <Item value="NewsStyleUriParser`0" priority="0" />
+      <Item value="ConexaoSqlServer" priority="0" />
+      <Item value="Rollback" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GeradorDeCodigo.Infra.Enun.TipoDeBancoDados">
+      <Item value="Sqlserver" priority="3" />
+      <Item value="Oracle" priority="1" />
+      <Item value="TryParse`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual`0" priority="5" />
+      <Item value="IsNotNull`0" priority="0" />
+      <Item value="IsInstanceOfType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeradorDeCodigo.Infra.Conexao.FactoryConexao">
+      <Item value="GetConexao`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Contracts.Contract">
+      <Item value="Requires`1" priority="2" />
+      <Item value="Assert`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeradorDeCodigo.Infra.Enun.TipoDeBancoDados">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="0" />
+      <Item value="IsNullOrWhiteSpace`0" priority="7" />
+      <Item value="Empty" priority="24" />
+      <Item value="Format`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Replace`0" priority="2" />
+      <Item value="ToLower`0" priority="7" />
+      <Item value="Substring`0" priority="4" />
+      <Item value="CopyTo`0" priority="0" />
+      <Item value="Length" priority="4" />
+      <Item value="ToUpper`0" priority="14" />
+      <Item value="Trim`0" priority="0" />
+      <Item value="Count`1" priority="1" />
+      <Item value="toar" priority="0" />
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeradorDeCodigo.Dominio.TrataNome.TrataNome">
+      <Item value="ConverteParaMinisculo`0" priority="5" />
+      <Item value="ConverteParaMaisculo`0" priority="15" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Globalization.CultureInfo">
+      <Item value="TextInfo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GeradorDeCodigo.Infra.Conexao.StringConexao">
+      <Item value="GetOralce`0" priority="0" />
+      <Item value="GetSqlServer`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.DirectoryInfo">
+      <Item value="Exists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="CreateDirectory`0" priority="0" />
+      <Item value="GetFiles`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MbUnit.Framework.Assert">
+      <Item value="DoesNotThrow`0" priority="0" />
+      <Item value="Throws`0" priority="6" />
+      <Item value="AreEqual`1" priority="8" />
+      <Item value="IsTrue`0" priority="2" />
+      <Item value="IsFalse`0" priority="2" />
+      <Item value="IsNotEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="3" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Exists`0" priority="0" />
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeradorDeCodigo.Dominio.GeraArquivo.GeraArquivo">
+      <Item value="RetiraS" priority="0" />
+      <Item value="CriaArquivosNoDiretorio`0" priority="1" />
+      <Item value="CriaDiretorio`0" priority="2" />
+      <Item value="EscreveNoArquivo`0" priority="1" />
+      <Item value="GeraContrutor`0" priority="0" />
+      <Item value="PropertyAltomaticas" priority="1" />
+      <Item value="GeraPropety`0" priority="0" />
+      <Item value="trataNome" priority="1" />
+      <Item value="GeraInterface" priority="1" />
+      <Item value="CriaEntitades`0" priority="0" />
+      <Item value="ConteudoDaInteface`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="79" />
+      <Item value="ToString`0" priority="4" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadLine`0" priority="1" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeradorDeCodigo.Dominio.TrataNome.ConvertParaTipoCShap">
+      <Item value="TipoCShap`0" priority="3" />
+      <Item value="Interface" priority="0" />
+      <Item value="RetiraS" priority="0" />
+      <Item value="VerificaSeTipoCSharp`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="Count`1" priority="6" />
+      <Item value="FirstOrDefault`1" priority="2" />
+      <Item value="Where`1" priority="2" />
+      <Item value="First`1" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeradorDeCodigo.Dominio.GeraArquivo.GeraEntidades">
+      <Item value="ESerializable" priority="1" />
+      <Item value="CriaDiretorio`0" priority="0" />
+      <Item value="IncluirArquivoNoProjeto`0" priority="0" />
+      <Item value="EscreveNoArquivo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeradorDeCodigo.Infra.Conexao.IConexao">
+      <Item value="Oralceconnection" priority="0" />
+      <Item value="Connection`1" priority="7" />
+      <Item value="Dispose`0" priority="7" />
+      <Item value="Sqlconnection" priority="0" />
+      <Item value="TesteConexao`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlConnection">
+      <Item value="Close`0" priority="0" />
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeradorDeCodigo.Infra.Metadados.ITabelasECampos">
+      <Item value="VerificaSeExisteTabela`0" priority="0" />
+      <Item value="TabelasDoBanco`0" priority="0" />
+      <Item value="CamposDaTabela`0" priority="3" />
+      <Item value="CamposChavesDaTabela`0" priority="0" />
+      <Item value="TamanhodoCamposString`0" priority="0" />
+      <Item value="CampoChavesDaTabela`0" priority="3" />
+      <Item value="CampoOBrigatorio`0" priority="1" />
+      <Item value="TabelasOndeARelacionamento`0" priority="2" />
+      <Item value="CamposIdentityDaTabela`0" priority="1" />
+      <Item value="CamposChavesEstrageiraDaTabela`0" priority="0" />
+      <Item value="NomeDaTabelaDaChaveEstrgeira`0" priority="0" />
+      <Item value="TipoDadoBd`0" priority="0" />
+      <Item value="NomeDoCampoOndeARelacionmento`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeradorDeCodigo.Infra.Metadados.TabelasECamposSqlServer">
+      <Item value="VerificaSeExisteTabela`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="IsEnabled" priority="1" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.CheckBox">
+      <Item value="Checked" priority="3" />
+      <Item value="IsChecked" priority="5" />
+      <Item value="IsEnabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="Value" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Win32.OpenFileDialog">
+      <Item value="SafeFileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ProgressBar">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ComboBox">
+      <Item value="Text" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.PasswordBox">
+      <Item value="Password" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TabControl">
+      <Item value="TabIndex" priority="1" />
+      <Item value="Items" priority="1" />
+      <Item value="SelectedContent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemCollection">
+      <Item value="Indexer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxImage">
+      <Item value="Error" priority="0" />
+      <Item value="Asterisk" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeradorDeCodigo.Dominio.GeraArquivo.GeraNHibernateHelpe">
+      <Item value="GeraConteudoNHibernateHelpe`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeradorDeCodigo.Dominio.GeraArquivo.GeraXmlDeConfigNHibernate">
+      <Item value="GeraConteudoXmlDeConfigNHibernate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GeradorDeCodigo.Infra.Metadados.TabelasECamposFactory">
+      <Item value="GetTabelasECampos`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeradorDeCodigo.Dominio.GeraArquivo.MoverArquivos">
+      <Item value="CopiaAsDLLNHibernate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="GetTempPath`0" priority="0" />
+      <Item value="GetDirectoryName`0" priority="0" />
+      <Item value="GetPathRoot`0" priority="0" />
+      <Item value="AltDirectorySeparatorChar" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Application">
+      <Item value="Current" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Boolean">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeradorDeCodigo.Dominio.GeraArquivo.GeraRepositorio">
+      <Item value="GeraClasseRepositorioBase`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNode">
+      <Item value="Value" priority="7" />
+      <Item value="InnerText" priority="5" />
+      <Item value="RemoveAll`0" priority="1" />
+      <Item value="FirstChild" priority="2" />
+      <Item value="LastChild" priority="1" />
+      <Item value="ChildNodes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNodeList">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="3" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

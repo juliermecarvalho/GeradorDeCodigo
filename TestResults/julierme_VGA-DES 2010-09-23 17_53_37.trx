@@ -1,0 +1,762 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="9d8f4275-8bc2-4831-9612-e2cd7459eba0" name="julierme@VGA-DES 2010-09-23 17:53:37" runUser="D_VGA\julierme" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ea351624-5c13-458c-b8cd-d92029f9404a">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="julierme_VGA-DES 2010-09-23 17_53_37">
+      <DeploymentItem filename="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Dominio\bin\Debug\GeradorDeCodigo.Dominio.dll" />
+      <DeploymentItem filename="C:\Arquivos de programas\Gallio\bin\MbUnit.dll" />
+      <DeploymentItem filename="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Infra\bin\Debug\GeradorDeCodigo.Infra.dll" />
+      <DeploymentItem filename="C:\Arquivos de programas\Gallio\bin\Gallio.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-09-23T17:53:37.4843750-03:00" queuing="2010-09-23T17:53:37.5937500-03:00" start="2010-09-23T17:53:37.6562500-03:00" finish="2010-09-23T17:53:56.8906250-03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="59" executed="59" passed="58" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <GallioTestElement name="Passado_so_Souce_ID_Passaword_Tem_que_retorna_string_conexao" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="33356139-6264-6635-3862-663733633462" d3p1:Gallio.TestId="9a53db5f8bf73c4b" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Infra.Conexao" d3p1:Gallio.TypeName="GeradorDeCodigo.Infra.Conexao.StringConexaoTeste" d3p1:Gallio.MemberName="Passado_so_Souce_ID_Passaword_Tem_que_retorna_string_conexao" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\Conexao\StringConexaoTeste.cs" d3p1:Gallio.Line="36" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="fd127fa0-dbb9-4fa1-a596-dfe339c25f31" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_se_um_campo_e_obrigatorio_de_tabela_do_banco_Northwind" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="30646463-3332-3237-3639-353335666438" d3p1:Gallio.TestId="cdd0237269535fd8" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.MetadadosTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.MetadadosTeste.TabelasECamposSqlServerTeste" d3p1:Gallio.MemberName="Retorna_se_um_campo_e_obrigatorio_de_tabela_do_banco_Northwind" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\MetadadosTeste\TabelasECamposSqlServerTeste.cs" d3p1:Gallio.Line="144" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="5a3f3cac-8a1d-4286-9244-a4920d94f7dc" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Passando_o_nome_de_uma_tabela_que_nao_existe_ele_retorna_falso" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="32353762-3334-6634-3034-373765316530" d3p1:Gallio.TestId="b752434f0477e1e0" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.MetadadosTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.MetadadosTeste.TabelasECamposSqlServerTeste" d3p1:Gallio.MemberName="Passando_o_nome_de_uma_tabela_que_nao_existe_ele_retorna_falso" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\MetadadosTeste\TabelasECamposSqlServerTeste.cs" d3p1:Gallio.Line="37" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="e4c55750-a4f5-4d2a-84e0-1e9fe2304180" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Passando_source_e_base_ele_retrona_uma_conexao" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="62623361-6230-3536-6364-333337666265" d3p1:Gallio.TestId="a3bb0b65cd337fbe" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.Conexao" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.Conexao.ConexaoSqlServerTeste" d3p1:Gallio.MemberName="Passando_source_e_base_ele_retrona_uma_conexao" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\Conexao\ConexaoSqlServerTeste.cs" d3p1:Gallio.Line="19" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="a9158812-f2cf-4466-9210-4351bec422a3" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_o_tipo_de_dado_Csharp_classe_reverente" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="34643835-6264-6130-3934-653539313033" d3p1:Gallio.TestId="58d4db0a94e59103" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.GeraArquivo" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.GeraArquivo.GeraArquivoTeste" d3p1:Gallio.MemberName="Retorna_o_tipo_de_dado_Csharp_classe_reverente" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\GeraArquivo\GeraArquivoTeste.cs" d3p1:Gallio.Line="189" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="4bfea349-a66c-4fb4-9624-3af8f4440a37" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Passado_uma_string_Passa_so_a_primeira_letra_para_maisculo_e_retiro_o_uderline" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="35383833-6536-3038-3939-626363323833" d3p1:Gallio.TestId="38856e8099bcc283" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.TrataNomeTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.TrataNomeTeste.TrataNomeTeste" d3p1:Gallio.MemberName="Passado_uma_string_Passa_so_a_primeira_letra_para_maisculo_e_retiro_o_uderline" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\TrataNomeTeste\TrataNomeTeste.cs" d3p1:Gallio.Line="69" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="49f1bbdb-6a69-4921-979a-b668c18f2137" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_o_drive_a_ser_usado_pelo_NHibernate" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="38333435-3866-3130-3162-616430326336" d3p1:Gallio.TestId="5438f8011bad02c6" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.MetadadosTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.MetadadosTeste.TabelasECamposSqlServerTeste" d3p1:Gallio.MemberName="Retorna_o_drive_a_ser_usado_pelo_NHibernate" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\MetadadosTeste\TabelasECamposSqlServerTeste.cs" d3p1:Gallio.Line="117" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="90a45f24-a3ce-4b04-97a1-edf298739f06" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_o_campo_chaveEstrageira_de_tabela_do_banco_Northwind" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="63373763-3439-3966-3330-633433653937" d3p1:Gallio.TestId="c77c94f930c43e97" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.MetadadosTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.MetadadosTeste.TabelasECamposSqlServerTeste" d3p1:Gallio.MemberName="Retorna_o_campo_chaveEstrageira_de_tabela_do_banco_Northwind" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\MetadadosTeste\TabelasECamposSqlServerTeste.cs" d3p1:Gallio.Line="182" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="563b39ff-cff2-449b-99c8-4ccf861e1d1d" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Passado_uma_string_para_minisculo_e_retira_uderline" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="33363532-3534-6439-6466-653133383535" d3p1:Gallio.TestId="2563459ddfe13855" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.TrataNomeTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.TrataNomeTeste.TrataNomeTeste" d3p1:Gallio.MemberName="Passado_uma_string_para_minisculo_e_retira_uderline" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\TrataNomeTeste\TrataNomeTeste.cs" d3p1:Gallio.Line="21" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="cb1603f9-8517-4d70-af50-716f119508ff" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_uma_exception_GetOracle_se_passa_source_Catalog_id_password_vazio" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="65316534-3033-6337-3634-346562616333" d3p1:Gallio.TestId="4e1e307c644ebac3" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Infra.Conexao" d3p1:Gallio.TypeName="GeradorDeCodigo.Infra.Conexao.StringConexaoTeste" d3p1:Gallio.MemberName="Retorna_uma_exception_GetOracle_se_passa_source_Catalog_id_password_vazio" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\Conexao\StringConexaoTeste.cs" d3p1:Gallio.Line="85" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="bec6c4ca-aeb0-4a33-8937-2ec9888cb255" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="verifica_se_existe_diretorio" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="66303835-6263-6664-3137-353133326431" d3p1:Gallio.TestId="580fcbdf175132d1" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.GeraArquivo" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.GeraArquivo.GeraArquivoTeste" d3p1:Gallio.MemberName="verifica_se_existe_diretorio" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\GeraArquivo\GeraArquivoTeste.cs" d3p1:Gallio.Line="24" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="3587f762-1548-43c2-8281-21c8321c26ac" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Passado_uma_string_para_minisculo_e_retira_uderline_e_nao_retira_S_no_fim" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="33303765-3366-6532-6537-363564393161" d3p1:Gallio.TestId="e703f32ee765d91a" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.TrataNomeTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.TrataNomeTeste.TrataNomeTeste" d3p1:Gallio.MemberName="Passado_uma_string_para_minisculo_e_retira_uderline_e_nao_retira_S_no_fim" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\TrataNomeTeste\TrataNomeTeste.cs" d3p1:Gallio.Line="39" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="45985d1d-d1ef-4a6b-9460-457a17d5bbd6" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Passado_so_Souce_Catalog_ID_Passaword_Tem_que_retorna_string_conexao" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="35363263-3639-3962-3266-383839666362" d3p1:Gallio.TestId="c26596b92f889fcb" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Infra.Conexao" d3p1:Gallio.TypeName="GeradorDeCodigo.Infra.Conexao.StringConexaoTeste" d3p1:Gallio.MemberName="Passado_so_Souce_Catalog_ID_Passaword_Tem_que_retorna_string_conexao" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\Conexao\StringConexaoTeste.cs" d3p1:Gallio.Line="49" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="bb9e1ec3-b0b0-4079-ba09-f34da6a69bb5" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="passado_uma_lista_string_cria_os_arquivos" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="31383335-3837-3834-3536-393065333832" d3p1:Gallio.TestId="538178485690e382" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.GeraArquivo" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.GeraArquivo.GeraArquivoTeste" d3p1:Gallio.MemberName="passado_uma_lista_string_cria_os_arquivos" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\GeraArquivo\GeraArquivoTeste.cs" d3p1:Gallio.Line="56" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="c54288ff-e944-495d-bd2c-287ba88497d0" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="passa_um_tipo_do_banco_de_dados_retorna_um_tipo_do_CShap" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="66663865-3532-6431-3139-323232356631" d3p1:Gallio.TestId="e8ff251d192225f1" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.GeraArquivo" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.GeraArquivo.GeraArquivoTeste" d3p1:Gallio.MemberName="passa_um_tipo_do_banco_de_dados_retorna_um_tipo_do_CShap" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\GeraArquivo\GeraArquivoTeste.cs" d3p1:Gallio.Line="157" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="12f527b2-331f-4b3a-9080-a5964aee2bd1" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_o_tipo_dado_do_campo_de_acordo_com_banco_Northwind" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="62303737-3831-3730-3964-653033633038" d3p1:Gallio.TestId="770b18079de03c08" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.MetadadosTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.MetadadosTeste.TabelasECamposSqlServerTeste" d3p1:Gallio.MemberName="Retorna_o_tipo_dado_do_campo_de_acordo_com_banco_Northwind" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\MetadadosTeste\TabelasECamposSqlServerTeste.cs" d3p1:Gallio.Line="213" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="28e62334-3eee-4fef-84a8-6b461ff9095e" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Passado_so_Souce_Tem_que_retorna_string_conexao" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="32356131-3233-3933-3764-333938396464" d3p1:Gallio.TestId="1a5232397d3989dd" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Infra.Conexao" d3p1:Gallio.TypeName="GeradorDeCodigo.Infra.Conexao.StringConexaoTeste" d3p1:Gallio.MemberName="Passado_so_Souce_Tem_que_retorna_string_conexao" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\Conexao\StringConexaoTeste.cs" d3p1:Gallio.Line="16" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="159070b6-8baf-483b-902a-884c960522a5" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="verifica_se_existe_diretorio_e_cria" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="33653234-6331-3335-6633-343339646265" d3p1:Gallio.TestId="42e31c53f3439dbe" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.GeraArquivo" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.GeraArquivo.GeraArquivoTeste" d3p1:Gallio.MemberName="verifica_se_existe_diretorio_e_cria" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\GeraArquivo\GeraArquivoTeste.cs" d3p1:Gallio.Line="32" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="4fb8b8de-3002-4a10-9974-ddd32c7336ea" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_o_dialeto_do_Banco_de_dados" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="33636638-6462-6364-6233-373632623964" d3p1:Gallio.TestId="8fc3bddcb3762b9d" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.MetadadosTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.MetadadosTeste.TabelasECamposSqlServerTeste" d3p1:Gallio.MemberName="Retorna_o_dialeto_do_Banco_de_dados" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\MetadadosTeste\TabelasECamposSqlServerTeste.cs" d3p1:Gallio.Line="110" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="ce38b21b-4052-472f-9089-b0f438bb58c0" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Passado_uma_string_para_minisculo_e_retira_uderline_e_S_no_fim" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="65386532-6261-6366-3930-393439336562" d3p1:Gallio.TestId="2e8eabfc909493eb" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.TrataNomeTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.TrataNomeTeste.TrataNomeTeste" d3p1:Gallio.MemberName="Passado_uma_string_para_minisculo_e_retira_uderline_e_S_no_fim" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\TrataNomeTeste\TrataNomeTeste.cs" d3p1:Gallio.Line="30" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="91666004-a3d1-48c5-87d1-101755f874bd" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Passado_uma_string_Passa_so_a_primeira_letra_para_maisculo_e_retiro_o_uderline_e_o_S" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="39316539-3932-3531-6432-326266373663" d3p1:Gallio.TestId="9e192915d22bf76c" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.TrataNomeTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.TrataNomeTeste.TrataNomeTeste" d3p1:Gallio.MemberName="Passado_uma_string_Passa_so_a_primeira_letra_para_maisculo_e_retiro_o_uderline_e_o_S" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\TrataNomeTeste\TrataNomeTeste.cs" d3p1:Gallio.Line="77" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="54474e2e-7c6b-480e-9455-509b6b5fb7fc" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_uma_exception_se_passado_nome_vazio_e_retira_s" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="63373332-6164-3935-6536-616337316435" d3p1:Gallio.TestId="237cda59e6ac71d5" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.TrataNomeTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.TrataNomeTeste.TrataNomeTeste" d3p1:Gallio.MemberName="Retorna_uma_exception_se_passado_nome_vazio_e_retira_s" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\TrataNomeTeste\TrataNomeTeste.cs" d3p1:Gallio.Line="59" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="bf882fbd-6029-4e1e-90d1-68bd6f6299cd" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_uma_class_tipo_ConexaoSqlServe" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="64663762-3535-3766-3130-386538623232" d3p1:Gallio.TestId="b7fd55f7108e8b22" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.Conexao" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.Conexao.FactoryConexaoTeste" d3p1:Gallio.MemberName="Retorna_uma_class_tipo_ConexaoSqlServe" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\Conexao\FactoryConexaoTeste.cs" d3p1:Gallio.Line="45" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="050c9219-901c-4487-88bf-888a041716d8" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_uma_exception_GetSqlServer_se_passa_source_id_password_vazio" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="32313866-6134-6638-3634-393538643264" d3p1:Gallio.TestId="f8124a8f64958d2d" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Infra.Conexao" d3p1:Gallio.TypeName="GeradorDeCodigo.Infra.Conexao.StringConexaoTeste" d3p1:Gallio.MemberName="Retorna_uma_exception_GetSqlServer_se_passa_source_id_password_vazio" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\Conexao\StringConexaoTeste.cs" d3p1:Gallio.Line="76" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="4643a0ef-e2ce-44e6-9b95-a635b16aebfc" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_verdadeiro_se_campo_for_chave_de_uma_tabelas_do_banco_Northwind" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="31356639-6364-6132-3266-626465343463" d3p1:Gallio.TestId="9f51dc2a2fbde44c" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.MetadadosTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.MetadadosTeste.TabelasECamposSqlServerTeste" d3p1:Gallio.MemberName="Retorna_verdadeiro_se_campo_for_chave_de_uma_tabelas_do_banco_Northwind" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\MetadadosTeste\TabelasECamposSqlServerTeste.cs" d3p1:Gallio.Line="88" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="91de191a-b50f-4d2d-9229-79d7b6ca62fd" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Passado_um_campo_e_uma_tabela_do_banco_Northwind_ele_retorna_se_e_Identity" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="64356466-3863-3837-3766-313038303435" d3p1:Gallio.TestId="fd5dc8787f108045" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.MetadadosTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.MetadadosTeste.TabelasECamposSqlServerTeste" d3p1:Gallio.MemberName="Passado_um_campo_e_uma_tabela_do_banco_Northwind_ele_retorna_se_e_Identity" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\MetadadosTeste\TabelasECamposSqlServerTeste.cs" d3p1:Gallio.Line="171" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="8614ca8d-f378-44ba-99e0-6a41634597af" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_uma_exception_para_tipo_vazinho" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="30623638-3332-3839-3437-616239626262" d3p1:Gallio.TestId="86b0239847ab9bbb" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.GeraArquivo" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.GeraArquivo.GeraArquivoTeste" d3p1:Gallio.MemberName="Retorna_uma_exception_para_tipo_vazinho" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\GeraArquivo\GeraArquivoTeste.cs" d3p1:Gallio.Line="169" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="a9ba2e54-9044-4144-b347-1e5c78851673" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_uma_exception_para_cria_diretorio_se_caminho_vazinho" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="64363634-3431-3561-3264-633432323233" d3p1:Gallio.TestId="466d14a52dc42223" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.GeraArquivo" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.GeraArquivo.GeraArquivoTeste" d3p1:Gallio.MemberName="Retorna_uma_exception_para_cria_diretorio_se_caminho_vazinho" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\GeraArquivo\GeraArquivoTeste.cs" d3p1:Gallio.Line="89" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="d7b78c53-5e76-4399-898c-e9cd573478a2" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="passado_um_arquivo_e_uma_StringBild_ele_escreve_no_arquivo" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="32363435-3064-6563-3535-633439346265" d3p1:Gallio.TestId="5462d0ce55c494be" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.GeraArquivo" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.GeraArquivo.GeraArquivoTeste" d3p1:Gallio.MemberName="passado_um_arquivo_e_uma_StringBild_ele_escreve_no_arquivo" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\GeraArquivo\GeraArquivoTeste.cs" d3p1:Gallio.Line="97" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="e7b1a3cf-8614-451a-9907-70cb6ba32671" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorana_verdadeiro_se_a_conexao_estiver_aberta" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="37643537-6664-6630-3234-393466356520" d3p1:Gallio.TestId="75d7df0f2494f5e" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.Conexao" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.Conexao.ConexaoSqlServerTeste" d3p1:Gallio.MemberName="Retorana_verdadeiro_se_a_conexao_estiver_aberta" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\Conexao\ConexaoSqlServerTeste.cs" d3p1:Gallio.Line="35" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="f5f15975-fae3-4132-b35a-2f95b31b1460" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="passando_lista_campos_ele_retorna_StringBilder_propetyAutomaticas_false" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="65663261-3262-3739-3832-306437396632" d3p1:Gallio.TestId="a2feb297820d79f2" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.GeraArquivo" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.GeraArquivo.GeraArquivoTeste" d3p1:Gallio.MemberName="passando_lista_campos_ele_retorna_StringBilder_propetyAutomaticas_false" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\GeraArquivo\GeraArquivoTeste.cs" d3p1:Gallio.Line="144" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="33c66a6e-d5de-4e82-91b9-6930a82c6cfb" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_o_tanho_de_um_campo_string_tabelas_do_banco_Northwind" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="62373335-3032-6364-6234-613763376320" d3p1:Gallio.TestId="537b20dcb4a7c7c" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.MetadadosTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.MetadadosTeste.TabelasECamposSqlServerTeste" d3p1:Gallio.MemberName="Retorna_o_tanho_de_um_campo_string_tabelas_do_banco_Northwind" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\MetadadosTeste\TabelasECamposSqlServerTeste.cs" d3p1:Gallio.Line="124" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="9c884abb-3784-44ce-b504-07c913848d27" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Passado_uma_string_para_minisculo" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="61336661-3136-3139-6236-643537363934" d3p1:Gallio.TestId="af3a6191b6d57694" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.TrataNomeTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.TrataNomeTeste.TrataNomeTeste" d3p1:Gallio.MemberName="Passado_uma_string_para_minisculo" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\TrataNomeTeste\TrataNomeTeste.cs" d3p1:Gallio.Line="12" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="92aaa487-7a4f-4223-9291-45dd6dd5b9d5" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="passado_uma_lista_string_cria_as_interface" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="61646461-6230-6264-3531-643634303530" d3p1:Gallio.TestId="adda0bdb51d64050" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.GeraArquivo" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.GeraArquivo.GeraArquivoTeste" d3p1:Gallio.MemberName="passado_uma_lista_string_cria_as_interface" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\GeraArquivo\GeraArquivoTeste.cs" d3p1:Gallio.Line="68" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="9e6b126f-61e3-4551-a494-6a6327996853" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_uma_class_tipo_ConexaoOracle" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="39633632-3239-3862-6363-303537303936" d3p1:Gallio.TestId="26c992b8cc057096" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.Conexao" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.Conexao.FactoryConexaoTeste" d3p1:Gallio.MemberName="Retorna_uma_class_tipo_ConexaoOracle" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\Conexao\FactoryConexaoTeste.cs" d3p1:Gallio.Line="35" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="68afb443-a91e-43d5-b28f-a53f8ec468f1" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_uma_exception_para_cria_arquivo_se_caminho_vazinho" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="37616638-3633-3638-6464-306665353237" d3p1:Gallio.TestId="8fa73686dd0fe527" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.GeraArquivo" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.GeraArquivo.GeraArquivoTeste" d3p1:Gallio.MemberName="Retorna_uma_exception_para_cria_arquivo_se_caminho_vazinho" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\GeraArquivo\GeraArquivoTeste.cs" d3p1:Gallio.Line="81" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="2e8e140e-a782-4b9a-a129-f2152c7af51f" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_uma_exeption_caso_passe_Oracle_e_retorna_Sqlserver" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="31633565-6630-3663-3234-376564316565" d3p1:Gallio.TestId="e5c10fc6247ed1ee" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.Conexao" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.Conexao.FactoryConexaoTeste" d3p1:Gallio.MemberName="Retorna_uma_exeption_caso_passe_Oracle_e_retorna_Sqlserver" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\Conexao\FactoryConexaoTeste.cs" d3p1:Gallio.Line="55" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="bb7bffa5-597a-4035-8152-bb6205e711ef" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Passado_so_Souce_Catalog_Tem_que_retorna_string_conexao" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="64383266-3736-3338-3533-383166353939" d3p1:Gallio.TestId="f28d67835381f599" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Infra.Conexao" d3p1:Gallio.TypeName="GeradorDeCodigo.Infra.Conexao.StringConexaoTeste" d3p1:Gallio.MemberName="Passado_so_Souce_Catalog_Tem_que_retorna_string_conexao" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\Conexao\StringConexaoTeste.cs" d3p1:Gallio.Line="25" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="065fd016-7457-4e74-b3f1-a0d8299ce921" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="dado_uma_lista_string_cria_arquivo_no_diretorio" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="64323338-6433-3038-3732-333061323061" d3p1:Gallio.TestId="832d3d807230a20a" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.GeraArquivo" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.GeraArquivo.GeraArquivoTeste" d3p1:Gallio.MemberName="dado_uma_lista_string_cria_arquivo_no_diretorio" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\GeraArquivo\GeraArquivoTeste.cs" d3p1:Gallio.Line="44" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="e4ae2b12-b98e-48be-a6dd-72729ab8f399" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_uma_exception_se_passado_nome_vazio" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="30303034-3130-6563-6235-666430613839" d3p1:Gallio.TestId="400001ceb5fd0a89" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.TrataNomeTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.TrataNomeTeste.TrataNomeTeste" d3p1:Gallio.MemberName="Retorna_uma_exception_se_passado_nome_vazio" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\TrataNomeTeste\TrataNomeTeste.cs" d3p1:Gallio.Line="49" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="fd70ec54-eebc-4c8f-920f-eb801b159270" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_a_tabela_do_campo_chaveEstrageira_de_tabela_do_banco_Northwind" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="39613033-3837-6161-6335-616539643436" d3p1:Gallio.TestId="30a978aac5ae9d46" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.MetadadosTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.MetadadosTeste.TabelasECamposSqlServerTeste" d3p1:Gallio.MemberName="Retorna_a_tabela_do_campo_chaveEstrageira_de_tabela_do_banco_Northwind" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\MetadadosTeste\TabelasECamposSqlServerTeste.cs" d3p1:Gallio.Line="200" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="b609f4f7-4888-4ac8-9cd6-5d4e4ea17187" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Passado_uma_tabela_do_banco_Northwind_ele_retorna_seus_relacionamentos" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="65373936-3430-3764-3363-653437323639" d3p1:Gallio.TestId="697e04d73ce47269" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.MetadadosTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.MetadadosTeste.TabelasECamposSqlServerTeste" d3p1:Gallio.MemberName="Passado_uma_tabela_do_banco_Northwind_ele_retorna_seus_relacionamentos" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\MetadadosTeste\TabelasECamposSqlServerTeste.cs" d3p1:Gallio.Line="156" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="227bdb15-8dd1-4bea-81a7-a91c99b7ea97" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_a_quantidade_de_campos_de_uma_tabelas_do_banco_Northwind" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="39633232-6234-6166-3237-333439303663" d3p1:Gallio.TestId="22c94bfa2734906c" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.MetadadosTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.MetadadosTeste.TabelasECamposSqlServerTeste" d3p1:Gallio.MemberName="Retorna_a_quantidade_de_campos_de_uma_tabelas_do_banco_Northwind" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\MetadadosTeste\TabelasECamposSqlServerTeste.cs" d3p1:Gallio.Line="61" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="e45c175a-66cf-40b4-ba98-9f04191e54d3" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_uma_exception_para_tipo_que_nao_seja_bd" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="33303038-3937-3165-6439-623831643137" d3p1:Gallio.TestId="800379e1d9b81d17" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.GeraArquivo" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.GeraArquivo.GeraArquivoTeste" d3p1:Gallio.MemberName="Retorna_uma_exception_para_tipo_que_nao_seja_bd" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\GeraArquivo\GeraArquivoTeste.cs" d3p1:Gallio.Line="179" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="feffdba1-cac7-4237-ada9-0f5927ba538c" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_uma_class_ConexaoSqlServer" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="62393162-3532-3465-3430-376630313932" d3p1:Gallio.TestId="b19b25e4407f0192" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.Conexao" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.Conexao.FactoryConexaoTeste" d3p1:Gallio.MemberName="Retorna_uma_class_ConexaoSqlServer" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\Conexao\FactoryConexaoTeste.cs" d3p1:Gallio.Line="16" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="72b76302-f9eb-4472-b1af-800972a84e30" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_a_quantidade_de_campos_chaves_de_uma_tabelas_do_banco_Northwind" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="62303138-3631-3537-3931-376332376261" d3p1:Gallio.TestId="810b1675917c27ba" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.MetadadosTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.MetadadosTeste.TabelasECamposSqlServerTeste" d3p1:Gallio.MemberName="Retorna_a_quantidade_de_campos_chaves_de_uma_tabelas_do_banco_Northwind" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\MetadadosTeste\TabelasECamposSqlServerTeste.cs" d3p1:Gallio.Line="68" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="59ab917c-bc30-4f55-a648-2fea556c6f4d" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_falso_se_campo_for_chave_de_uma_tabelas_do_banco_Northwind" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="35653164-3166-3563-3265-616139653366" d3p1:Gallio.TestId="d1e5f1c52eaa9e3f" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.MetadadosTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.MetadadosTeste.TabelasECamposSqlServerTeste" d3p1:Gallio.MemberName="Retorna_falso_se_campo_for_chave_de_uma_tabelas_do_banco_Northwind" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\MetadadosTeste\TabelasECamposSqlServerTeste.cs" d3p1:Gallio.Line="99" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="ce9eaab3-b792-4385-bd9f-e4422687bc50" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_uma_exception_GetSqlServer_se_passa_source_catalog_vazio" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="39373233-6331-6336-3039-616236303065" d3p1:Gallio.TestId="32791c6c09ab600e" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Infra.Conexao" d3p1:Gallio.TypeName="GeradorDeCodigo.Infra.Conexao.StringConexaoTeste" d3p1:Gallio.MemberName="Retorna_uma_exception_GetSqlServer_se_passa_source_catalog_vazio" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\Conexao\StringConexaoTeste.cs" d3p1:Gallio.Line="68" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="4232a103-f9d9-4bb8-b5f5-3e3036d38be3" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_uma_exception_passando_uma_string_vazia" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="62376364-3761-6633-6261-616133653666" d3p1:Gallio.TestId="dc7ba73fbaaa3e6f" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.MetadadosTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.MetadadosTeste.TabelasECamposSqlServerTeste" d3p1:Gallio.MemberName="Retorna_uma_exception_passando_uma_string_vazia" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\MetadadosTeste\TabelasECamposSqlServerTeste.cs" d3p1:Gallio.Line="46" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="4ba26da7-fc1d-4ca9-8b0a-fc61ad6d558b" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_o_campo_chave_de_tabela_do_banco_Northwind" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="37333238-6662-3239-6636-353265313730" d3p1:Gallio.TestId="8237bf92f652e170" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.MetadadosTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.MetadadosTeste.TabelasECamposSqlServerTeste" d3p1:Gallio.MemberName="Retorna_o_campo_chave_de_tabela_do_banco_Northwind" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\MetadadosTeste\TabelasECamposSqlServerTeste.cs" d3p1:Gallio.Line="134" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="eb0d3216-d7cd-4b89-93a9-503cbf43b6d9" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_uma_exception_GetSqlServer_se_passa_source_vazio" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="63343133-3130-6230-6661-333762386137" d3p1:Gallio.TestId="314c010bfa37b8a7" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Infra.Conexao" d3p1:Gallio.TypeName="GeradorDeCodigo.Infra.Conexao.StringConexaoTeste" d3p1:Gallio.MemberName="Retorna_uma_exception_GetSqlServer_se_passa_source_vazio" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\Conexao\StringConexaoTeste.cs" d3p1:Gallio.Line="61" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="83c48914-b418-48f1-b0c1-44d9b871adda" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="passando_lista_campos_ele_retorna_StringBilderpropetyAutomaticas_true" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="61653331-3838-3561-3966-653338316466" d3p1:Gallio.TestId="13ea88a59fe381df" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.GeraArquivo" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.GeraArquivo.GeraArquivoTeste" d3p1:Gallio.MemberName="passando_lista_campos_ele_retorna_StringBilderpropetyAutomaticas_true" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\GeraArquivo\GeraArquivoTeste.cs" d3p1:Gallio.Line="129" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="a7cd7c7a-2c91-4a80-8279-3d938e33c043" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_os_campos_chaves_de_uma_tabelas_do_banco_Northwind" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="31393633-3835-6539-6163-653036333566" d3p1:Gallio.TestId="3691589eace0635f" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.MetadadosTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.MetadadosTeste.TabelasECamposSqlServerTeste" d3p1:Gallio.MemberName="Retorna_os_campos_chaves_de_uma_tabelas_do_banco_Northwind" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\MetadadosTeste\TabelasECamposSqlServerTeste.cs" d3p1:Gallio.Line="75" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="c10c9a84-4b2b-4fcc-a608-7119b824b5e9" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorana_falso_se_a_conexao_nao_estiver_aberta" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="36353738-3464-3563-3864-643561306662" d3p1:Gallio.TestId="8756d4c58dd5a0fb" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.Conexao" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.Conexao.ConexaoSqlServerTeste" d3p1:Gallio.MemberName="Retorana_falso_se_a_conexao_nao_estiver_aberta" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\Conexao\ConexaoSqlServerTeste.cs" d3p1:Gallio.Line="46" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="5795fb1b-f6ca-47e9-a04d-10114a3bcb9f" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_uma_exception_se_passado_nome_vazio_converte_para_maiusculo" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="36313038-3666-6132-3733-303535356333" d3p1:Gallio.TestId="8016f62a730555c3" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Domino.TrataNomeTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Domino.TrataNomeTeste.TrataNomeTeste" d3p1:Gallio.MemberName="Retorna_uma_exception_se_passado_nome_vazio_converte_para_maiusculo" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\TrataNomeTeste\TrataNomeTeste.cs" d3p1:Gallio.Line="87" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="e40984d3-c2e5-43ea-a229-c2063cc8082d" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_a_quantidade_de_tabelas_do_banco_Northwind" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="38356166-3934-3365-6438-633061663333" d3p1:Gallio.TestId="fa5849e3d8c0af33" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.MetadadosTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.MetadadosTeste.TabelasECamposSqlServerTeste" d3p1:Gallio.MemberName="Retorna_a_quantidade_de_tabelas_do_banco_Northwind" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\MetadadosTeste\TabelasECamposSqlServerTeste.cs" d3p1:Gallio.Line="55" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="05c4b04b-8e1c-4b0d-8384-24b50ab00b8c" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="nao_passando_source_e_base_ele_retorna_uma_null" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="66336664-3136-3463-6432-333162663537" d3p1:Gallio.TestId="df3f61c4d231bf57" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.Conexao" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.Conexao.ConexaoSqlServerTeste" d3p1:Gallio.MemberName="nao_passando_source_e_base_ele_retorna_uma_null" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\Conexao\ConexaoSqlServerTeste.cs" d3p1:Gallio.Line="58" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="dfc203a2-55f7-46e0-86e4-3f34ca63a2f1" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Retorna_uma_class_ConexaoOracle" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="63343766-3562-3532-3861-336536613932" d3p1:Gallio.TestId="f74cb5258a3e6a92" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.Conexao" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.Conexao.FactoryConexaoTeste" d3p1:Gallio.MemberName="Retorna_uma_class_ConexaoOracle" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\Conexao\FactoryConexaoTeste.cs" d3p1:Gallio.Line="25" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="c894a566-89b7-4cd8-83e8-d67d247e9934" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="Passando_o_nome_de_uma_tabela_ele_retorna_verdadeiro" storage="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\bin\Debug\GeradorDeCodigo.Teste.dll" id="39326533-3265-6566-6339-346636626361" d3p1:Gallio.TestId="3e29e2fec94f6bca" d3p1:Gallio.AssemblyName="GeradorDeCodigo.Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="GeradorDeCodigo.Teste.Infra.MetadadosTeste" d3p1:Gallio.TypeName="GeradorDeCodigo.Teste.Infra.MetadadosTeste.TabelasECamposSqlServerTeste" d3p1:Gallio.MemberName="Passando_o_nome_de_uma_tabela_ele_retorna_verdadeiro" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\MetadadosTeste\TabelasECamposSqlServerTeste.cs" d3p1:Gallio.Line="28" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="df0e4702-79ca-40d3-962c-b57a93436b43" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="30303034-3130-6563-6235-666430613839" executionId="fd70ec54-eebc-4c8f-920f-eb801b159270" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="30623638-3332-3839-3437-616239626262" executionId="a9ba2e54-9044-4144-b347-1e5c78851673" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="30646463-3332-3237-3639-353335666438" executionId="5a3f3cac-8a1d-4286-9244-a4920d94f7dc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="31356639-6364-6132-3266-626465343463" executionId="91de191a-b50f-4d2d-9229-79d7b6ca62fd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="31383335-3837-3834-3536-393065333832" executionId="c54288ff-e944-495d-bd2c-287ba88497d0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="31393633-3835-6539-6163-653036333566" executionId="c10c9a84-4b2b-4fcc-a608-7119b824b5e9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="31633565-6630-3663-3234-376564316565" executionId="bb7bffa5-597a-4035-8152-bb6205e711ef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="32313866-6134-6638-3634-393538643264" executionId="4643a0ef-e2ce-44e6-9b95-a635b16aebfc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="32353762-3334-6634-3034-373765316530" executionId="e4c55750-a4f5-4d2a-84e0-1e9fe2304180" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="32356131-3233-3933-3764-333938396464" executionId="159070b6-8baf-483b-902a-884c960522a5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="32363435-3064-6563-3535-633439346265" executionId="e7b1a3cf-8614-451a-9907-70cb6ba32671" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="33303038-3937-3165-6439-623831643137" executionId="feffdba1-cac7-4237-ada9-0f5927ba538c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="33303765-3366-6532-6537-363564393161" executionId="45985d1d-d1ef-4a6b-9460-457a17d5bbd6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="33356139-6264-6635-3862-663733633462" executionId="fd127fa0-dbb9-4fa1-a596-dfe339c25f31" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="33363532-3534-6439-6466-653133383535" executionId="cb1603f9-8517-4d70-af50-716f119508ff" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="33636638-6462-6364-6233-373632623964" executionId="ce38b21b-4052-472f-9089-b0f438bb58c0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="33653234-6331-3335-6633-343339646265" executionId="4fb8b8de-3002-4a10-9974-ddd32c7336ea" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="34643835-6264-6130-3934-653539313033" executionId="4bfea349-a66c-4fb4-9624-3af8f4440a37" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="35363263-3639-3962-3266-383839666362" executionId="bb9e1ec3-b0b0-4079-ba09-f34da6a69bb5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="35383833-6536-3038-3939-626363323833" executionId="49f1bbdb-6a69-4921-979a-b668c18f2137" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="35653164-3166-3563-3265-616139653366" executionId="ce9eaab3-b792-4385-bd9f-e4422687bc50" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="36313038-3666-6132-3733-303535356333" executionId="e40984d3-c2e5-43ea-a229-c2063cc8082d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="36353738-3464-3563-3864-643561306662" executionId="5795fb1b-f6ca-47e9-a04d-10114a3bcb9f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37333238-6662-3239-6636-353265313730" executionId="eb0d3216-d7cd-4b89-93a9-503cbf43b6d9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37616638-3633-3638-6464-306665353237" executionId="2e8e140e-a782-4b9a-a129-f2152c7af51f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37643537-6664-6630-3234-393466356520" executionId="f5f15975-fae3-4132-b35a-2f95b31b1460" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="38333435-3866-3130-3162-616430326336" executionId="90a45f24-a3ce-4b04-97a1-edf298739f06" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="38356166-3934-3365-6438-633061663333" executionId="05c4b04b-8e1c-4b0d-8384-24b50ab00b8c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="39316539-3932-3531-6432-326266373663" executionId="54474e2e-7c6b-480e-9455-509b6b5fb7fc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="39326533-3265-6566-6339-346636626361" executionId="df0e4702-79ca-40d3-962c-b57a93436b43" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="39373233-6331-6336-3039-616236303065" executionId="4232a103-f9d9-4bb8-b5f5-3e3036d38be3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="39613033-3837-6161-6335-616539643436" executionId="b609f4f7-4888-4ac8-9cd6-5d4e4ea17187" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="39633232-6234-6166-3237-333439303663" executionId="e45c175a-66cf-40b4-ba98-9f04191e54d3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="39633632-3239-3862-6363-303537303936" executionId="68afb443-a91e-43d5-b28f-a53f8ec468f1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="61336661-3136-3139-6236-643537363934" executionId="92aaa487-7a4f-4223-9291-45dd6dd5b9d5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="61646461-6230-6264-3531-643634303530" executionId="9e6b126f-61e3-4551-a494-6a6327996853" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="61653331-3838-3561-3966-653338316466" executionId="a7cd7c7a-2c91-4a80-8279-3d938e33c043" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="62303138-3631-3537-3931-376332376261" executionId="59ab917c-bc30-4f55-a648-2fea556c6f4d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="62303737-3831-3730-3964-653033633038" executionId="28e62334-3eee-4fef-84a8-6b461ff9095e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="62373335-3032-6364-6234-613763376320" executionId="9c884abb-3784-44ce-b504-07c913848d27" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="62376364-3761-6633-6261-616133653666" executionId="4ba26da7-fc1d-4ca9-8b0a-fc61ad6d558b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="62393162-3532-3465-3430-376630313932" executionId="72b76302-f9eb-4472-b1af-800972a84e30" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="62623361-6230-3536-6364-333337666265" executionId="a9158812-f2cf-4466-9210-4351bec422a3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="63343133-3130-6230-6661-333762386137" executionId="83c48914-b418-48f1-b0c1-44d9b871adda" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="63343766-3562-3532-3861-336536613932" executionId="c894a566-89b7-4cd8-83e8-d67d247e9934" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="63373332-6164-3935-6536-616337316435" executionId="bf882fbd-6029-4e1e-90d1-68bd6f6299cd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="63373763-3439-3966-3330-633433653937" executionId="563b39ff-cff2-449b-99c8-4ccf861e1d1d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="64323338-6433-3038-3732-333061323061" executionId="e4ae2b12-b98e-48be-a6dd-72729ab8f399" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="64356466-3863-3837-3766-313038303435" executionId="8614ca8d-f378-44ba-99e0-6a41634597af" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="64363634-3431-3561-3264-633432323233" executionId="d7b78c53-5e76-4399-898c-e9cd573478a2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="64383266-3736-3338-3533-383166353939" executionId="065fd016-7457-4e74-b3f1-a0d8299ce921" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="64663762-3535-3766-3130-386538623232" executionId="050c9219-901c-4487-88bf-888a041716d8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="65316534-3033-6337-3634-346562616333" executionId="bec6c4ca-aeb0-4a33-8937-2ec9888cb255" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="65373936-3430-3764-3363-653437323639" executionId="227bdb15-8dd1-4bea-81a7-a91c99b7ea97" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="65386532-6261-6366-3930-393439336562" executionId="91666004-a3d1-48c5-87d1-101755f874bd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="65663261-3262-3739-3832-306437396632" executionId="33c66a6e-d5de-4e82-91b9-6930a82c6cfb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="66303835-6263-6664-3137-353133326431" executionId="3587f762-1548-43c2-8281-21c8321c26ac" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="66336664-3136-3463-6432-333162663537" executionId="dfc203a2-55f7-46e0-86e4-3f34ca63a2f1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="66663865-3532-6431-3139-323232356631" executionId="12f527b2-331f-4b3a-9080-a5964aee2bd1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <GallioTestResult executionId="fd70ec54-eebc-4c8f-920f-eb801b159270" testId="30303034-3130-6563-6235-666430613839" testName="Retorna_uma_exception_se_passado_nome_vazio" computerName="VGA-DES" duration="00:00:00.0040000" startTime="2010-09-23T17:53:56.5000000-03:00" endTime="2010-09-23T17:53:56.5000000-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fd70ec54-eebc-4c8f-920f-eb801b159270">
+    </GallioTestResult>
+    <GallioTestResult executionId="a9ba2e54-9044-4144-b347-1e5c78851673" testId="30623638-3332-3839-3437-616239626262" testName="Retorna_uma_exception_para_tipo_vazinho" computerName="VGA-DES" duration="00:00:00.0020000" startTime="2010-09-23T17:53:55.3437500-03:00" endTime="2010-09-23T17:53:55.3593750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a9ba2e54-9044-4144-b347-1e5c78851673">
+    </GallioTestResult>
+    <GallioTestResult executionId="5a3f3cac-8a1d-4286-9244-a4920d94f7dc" testId="30646463-3332-3237-3639-353335666438" testName="Retorna_se_um_campo_e_obrigatorio_de_tabela_do_banco_Northwind" computerName="VGA-DES" duration="00:00:00.0060000" startTime="2010-09-23T17:53:56.2031250-03:00" endTime="2010-09-23T17:53:56.2031250-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5a3f3cac-8a1d-4286-9244-a4920d94f7dc">
+    </GallioTestResult>
+    <GallioTestResult executionId="91de191a-b50f-4d2d-9229-79d7b6ca62fd" testId="31356639-6364-6132-3266-626465343463" testName="Retorna_verdadeiro_se_campo_for_chave_de_uma_tabelas_do_banco_Northwind" computerName="VGA-DES" duration="00:00:00.0060000" startTime="2010-09-23T17:53:56.2656250-03:00" endTime="2010-09-23T17:53:56.2656250-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="91de191a-b50f-4d2d-9229-79d7b6ca62fd">
+    </GallioTestResult>
+    <GallioTestResult executionId="c54288ff-e944-495d-bd2c-287ba88497d0" testId="31383335-3837-3834-3536-393065333832" testName="passado_uma_lista_string_cria_os_arquivos" computerName="VGA-DES" duration="00:00:00.0020000" startTime="2010-09-23T17:53:55.1093750-03:00" endTime="2010-09-23T17:53:55.1093750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c54288ff-e944-495d-bd2c-287ba88497d0">
+    </GallioTestResult>
+    <GallioTestResult executionId="c10c9a84-4b2b-4fcc-a608-7119b824b5e9" testId="31393633-3835-6539-6163-653036333566" testName="Retorna_os_campos_chaves_de_uma_tabelas_do_banco_Northwind" computerName="VGA-DES" duration="00:00:00.0070000" startTime="2010-09-23T17:53:56.1562500-03:00" endTime="2010-09-23T17:53:56.1718750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c10c9a84-4b2b-4fcc-a608-7119b824b5e9">
+    </GallioTestResult>
+    <GallioTestResult executionId="bb7bffa5-597a-4035-8152-bb6205e711ef" testId="31633565-6630-3663-3234-376564316565" testName="Retorna_uma_exeption_caso_passe_Oracle_e_retorna_Sqlserver" computerName="VGA-DES" duration="00:00:00.0740000" startTime="2010-09-23T17:53:54.9218750-03:00" endTime="2010-09-23T17:53:54.9375000-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bb7bffa5-597a-4035-8152-bb6205e711ef">
+      <Output>
+        <ErrorInfo>
+          <Message>Expected value to be an instance of a particular type.
+
+Expected Type : GeradorDeCodigo.Infra.Conexao.ConexaoSqlServer
+Actual Type   : GeradorDeCodigo.Infra.Conexao.ConexaoOracle
+Actual Value  : {GeradorDeCodigo.Infra.Conexao.ConexaoOracle: }
+
+   at GeradorDeCodigo.Teste.Infra.Conexao.FactoryConexaoTeste.&lt;&gt;c__DisplayClass1.&lt;Retorna_uma_exeption_caso_passe_Oracle_e_retorna_Sqlserver&gt;b__0() in C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\Conexao\FactoryConexaoTeste.cs:line 59
+   at GeradorDeCodigo.Teste.Infra.Conexao.FactoryConexaoTeste.Retorna_uma_exeption_caso_passe_Oracle_e_retorna_Sqlserver() in C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Infra\Conexao\FactoryConexaoTeste.cs:line 59
+</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="4643a0ef-e2ce-44e6-9b95-a635b16aebfc" testId="32313866-6134-6638-3634-393538643264" testName="Retorna_uma_exception_GetSqlServer_se_passa_source_id_password_vazio" computerName="VGA-DES" duration="00:00:00.0020000" startTime="2010-09-23T17:53:55.6406250-03:00" endTime="2010-09-23T17:53:55.6406250-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4643a0ef-e2ce-44e6-9b95-a635b16aebfc">
+    </GallioTestResult>
+    <GallioTestResult executionId="e4c55750-a4f5-4d2a-84e0-1e9fe2304180" testId="32353762-3334-6634-3034-373765316530" testName="Passando_o_nome_de_uma_tabela_que_nao_existe_ele_retorna_falso" computerName="VGA-DES" duration="00:00:00.0080000" startTime="2010-09-23T17:53:55.7968750-03:00" endTime="2010-09-23T17:53:55.7968750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e4c55750-a4f5-4d2a-84e0-1e9fe2304180">
+    </GallioTestResult>
+    <GallioTestResult executionId="159070b6-8baf-483b-902a-884c960522a5" testId="32356131-3233-3933-3764-333938396464" testName="Passado_so_Souce_Tem_que_retorna_string_conexao" computerName="VGA-DES" duration="00:00:00.0010000" startTime="2010-09-23T17:53:55.5468750-03:00" endTime="2010-09-23T17:53:55.5468750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="159070b6-8baf-483b-902a-884c960522a5">
+    </GallioTestResult>
+    <GallioTestResult executionId="e7b1a3cf-8614-451a-9907-70cb6ba32671" testId="32363435-3064-6563-3535-633439346265" testName="passado_um_arquivo_e_uma_StringBild_ele_escreve_no_arquivo" computerName="VGA-DES" duration="00:00:00.0040000" startTime="2010-09-23T17:53:55.0312500-03:00" endTime="2010-09-23T17:53:55.0468750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e7b1a3cf-8614-451a-9907-70cb6ba32671">
+    </GallioTestResult>
+    <GallioTestResult executionId="feffdba1-cac7-4237-ada9-0f5927ba538c" testId="33303038-3937-3165-6439-623831643137" testName="Retorna_uma_exception_para_tipo_que_nao_seja_bd" computerName="VGA-DES" duration="00:00:00.0020000" startTime="2010-09-23T17:53:55.3125000-03:00" endTime="2010-09-23T17:53:55.3125000-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="feffdba1-cac7-4237-ada9-0f5927ba538c">
+    </GallioTestResult>
+    <GallioTestResult executionId="45985d1d-d1ef-4a6b-9460-457a17d5bbd6" testId="33303765-3366-6532-6537-363564393161" testName="Passado_uma_string_para_minisculo_e_retira_uderline_e_nao_retira_S_no_fim" computerName="VGA-DES" duration="00:00:00.0010000" startTime="2010-09-23T17:53:56.3593750-03:00" endTime="2010-09-23T17:53:56.3593750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="45985d1d-d1ef-4a6b-9460-457a17d5bbd6">
+    </GallioTestResult>
+    <GallioTestResult executionId="fd127fa0-dbb9-4fa1-a596-dfe339c25f31" testId="33356139-6264-6635-3862-663733633462" testName="Passado_so_Souce_ID_Passaword_Tem_que_retorna_string_conexao" computerName="VGA-DES" duration="00:00:00.0020000" startTime="2010-09-23T17:53:55.5156250-03:00" endTime="2010-09-23T17:53:55.5312500-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fd127fa0-dbb9-4fa1-a596-dfe339c25f31">
+    </GallioTestResult>
+    <GallioTestResult executionId="cb1603f9-8517-4d70-af50-716f119508ff" testId="33363532-3534-6439-6466-653133383535" testName="Passado_uma_string_para_minisculo_e_retira_uderline" computerName="VGA-DES" duration="00:00:00.0010000" startTime="2010-09-23T17:53:56.3281250-03:00" endTime="2010-09-23T17:53:56.3437500-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cb1603f9-8517-4d70-af50-716f119508ff">
+    </GallioTestResult>
+    <GallioTestResult executionId="ce38b21b-4052-472f-9089-b0f438bb58c0" testId="33636638-6462-6364-6233-373632623964" testName="Retorna_o_dialeto_do_Banco_de_dados" computerName="VGA-DES" duration="00:00:00.0060000" startTime="2010-09-23T17:53:56.0468750-03:00" endTime="2010-09-23T17:53:56.0468750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ce38b21b-4052-472f-9089-b0f438bb58c0">
+    </GallioTestResult>
+    <GallioTestResult executionId="4fb8b8de-3002-4a10-9974-ddd32c7336ea" testId="33653234-6331-3335-6633-343339646265" testName="verifica_se_existe_diretorio_e_cria" computerName="VGA-DES" duration="00:00:00.0040000" startTime="2010-09-23T17:53:55.4218750-03:00" endTime="2010-09-23T17:53:55.4218750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4fb8b8de-3002-4a10-9974-ddd32c7336ea">
+    </GallioTestResult>
+    <GallioTestResult executionId="4bfea349-a66c-4fb4-9624-3af8f4440a37" testId="34643835-6264-6130-3934-653539313033" testName="Retorna_o_tipo_de_dado_Csharp_classe_reverente" computerName="VGA-DES" duration="00:00:00.2740000" startTime="2010-09-23T17:53:55.2031250-03:00" endTime="2010-09-23T17:53:55.2187500-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4bfea349-a66c-4fb4-9624-3af8f4440a37">
+      <Output>
+        <ErrorInfo>
+          <Message>Execute
+System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at GeradorDeCodigo.Dominio.TrataNome.ConvertParaTipoCShap.TipoCShap(String tabela, String campo) in C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Dominio\TrataNome\ConvertParaTipoCShap.cs:line 21
+   at GeradorDeCodigo.Teste.Domino.GeraArquivo.GeraArquivoTeste.Retorna_o_tipo_de_dado_Csharp_classe_reverente() in C:\Documents and Settings\julierme\meus documentos\visual studio 2010\Projects\GeradorDeCodigo\GeradorDeCodigo.Teste\Domino\GeraArquivo\GeraArquivoTeste.cs:line 193</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="bb9e1ec3-b0b0-4079-ba09-f34da6a69bb5" testId="35363263-3639-3962-3266-383839666362" testName="Passado_so_Souce_Catalog_ID_Passaword_Tem_que_retorna_string_conexao" computerName="VGA-DES" duration="00:00:00.0050000" startTime="2010-09-23T17:53:55.4531250-03:00" endTime="2010-09-23T17:53:55.4531250-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bb9e1ec3-b0b0-4079-ba09-f34da6a69bb5">
+    </GallioTestResult>
+    <GallioTestResult executionId="49f1bbdb-6a69-4921-979a-b668c18f2137" testId="35383833-6536-3038-3939-626363323833" testName="Passado_uma_string_Passa_so_a_primeira_letra_para_maisculo_e_retiro_o_uderline" computerName="VGA-DES" duration="00:00:00.0010000" startTime="2010-09-23T17:53:56.4218750-03:00" endTime="2010-09-23T17:53:56.4218750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="49f1bbdb-6a69-4921-979a-b668c18f2137">
+    </GallioTestResult>
+    <GallioTestResult executionId="ce9eaab3-b792-4385-bd9f-e4422687bc50" testId="35653164-3166-3563-3265-616139653366" testName="Retorna_falso_se_campo_for_chave_de_uma_tabelas_do_banco_Northwind" computerName="VGA-DES" duration="00:00:00.0110000" startTime="2010-09-23T17:53:55.9531250-03:00" endTime="2010-09-23T17:53:55.9531250-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ce9eaab3-b792-4385-bd9f-e4422687bc50">
+    </GallioTestResult>
+    <GallioTestResult executionId="e40984d3-c2e5-43ea-a229-c2063cc8082d" testId="36313038-3666-6132-3733-303535356333" testName="Retorna_uma_exception_se_passado_nome_vazio_converte_para_maiusculo" computerName="VGA-DES" duration="00:00:00.0050000" startTime="2010-09-23T17:53:56.5312500-03:00" endTime="2010-09-23T17:53:56.5312500-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e40984d3-c2e5-43ea-a229-c2063cc8082d">
+    </GallioTestResult>
+    <GallioTestResult executionId="5795fb1b-f6ca-47e9-a04d-10114a3bcb9f" testId="36353738-3464-3563-3864-643561306662" testName="Retorana_falso_se_a_conexao_nao_estiver_aberta" computerName="VGA-DES" duration="00:00:00.0020000" startTime="2010-09-23T17:53:54.7031250-03:00" endTime="2010-09-23T17:53:54.7031250-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5795fb1b-f6ca-47e9-a04d-10114a3bcb9f">
+    </GallioTestResult>
+    <GallioTestResult executionId="eb0d3216-d7cd-4b89-93a9-503cbf43b6d9" testId="37333238-6662-3239-6636-353265313730" testName="Retorna_o_campo_chave_de_tabela_do_banco_Northwind" computerName="VGA-DES" duration="00:00:00.0110000" startTime="2010-09-23T17:53:55.9843750-03:00" endTime="2010-09-23T17:53:55.9843750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eb0d3216-d7cd-4b89-93a9-503cbf43b6d9">
+    </GallioTestResult>
+    <GallioTestResult executionId="2e8e140e-a782-4b9a-a129-f2152c7af51f" testId="37616638-3633-3638-6464-306665353237" testName="Retorna_uma_exception_para_cria_arquivo_se_caminho_vazinho" computerName="VGA-DES" duration="00:00:00.0020000" startTime="2010-09-23T17:53:55.2500000-03:00" endTime="2010-09-23T17:53:55.2500000-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2e8e140e-a782-4b9a-a129-f2152c7af51f">
+    </GallioTestResult>
+    <GallioTestResult executionId="f5f15975-fae3-4132-b35a-2f95b31b1460" testId="37643537-6664-6630-3234-393466356520" testName="Retorana_verdadeiro_se_a_conexao_estiver_aberta" computerName="VGA-DES" duration="00:00:00.0200000" startTime="2010-09-23T17:53:54.7500000-03:00" endTime="2010-09-23T17:53:54.7500000-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f5f15975-fae3-4132-b35a-2f95b31b1460">
+    </GallioTestResult>
+    <GallioTestResult executionId="90a45f24-a3ce-4b04-97a1-edf298739f06" testId="38333435-3866-3130-3162-616430326336" testName="Retorna_o_drive_a_ser_usado_pelo_NHibernate" computerName="VGA-DES" duration="00:00:00.0010000" startTime="2010-09-23T17:53:56.0781250-03:00" endTime="2010-09-23T17:53:56.0781250-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="90a45f24-a3ce-4b04-97a1-edf298739f06">
+    </GallioTestResult>
+    <GallioTestResult executionId="05c4b04b-8e1c-4b0d-8384-24b50ab00b8c" testId="38356166-3934-3365-6438-633061663333" testName="Retorna_a_quantidade_de_tabelas_do_banco_Northwind" computerName="VGA-DES" duration="00:00:00.0030000" startTime="2010-09-23T17:53:55.8906250-03:00" endTime="2010-09-23T17:53:55.8906250-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="05c4b04b-8e1c-4b0d-8384-24b50ab00b8c">
+    </GallioTestResult>
+    <GallioTestResult executionId="54474e2e-7c6b-480e-9455-509b6b5fb7fc" testId="39316539-3932-3531-6432-326266373663" testName="Passado_uma_string_Passa_so_a_primeira_letra_para_maisculo_e_retiro_o_uderline_e_o_S" computerName="VGA-DES" duration="00:00:00.0010000" startTime="2010-09-23T17:53:56.4531250-03:00" endTime="2010-09-23T17:53:56.4687500-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="54474e2e-7c6b-480e-9455-509b6b5fb7fc">
+    </GallioTestResult>
+    <GallioTestResult executionId="df0e4702-79ca-40d3-962c-b57a93436b43" testId="39326533-3265-6566-6339-346636626361" testName="Passando_o_nome_de_uma_tabela_ele_retorna_verdadeiro" computerName="VGA-DES" duration="00:00:00.0030000" startTime="2010-09-23T17:53:55.7656250-03:00" endTime="2010-09-23T17:53:55.7656250-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="df0e4702-79ca-40d3-962c-b57a93436b43">
+    </GallioTestResult>
+    <GallioTestResult executionId="4232a103-f9d9-4bb8-b5f5-3e3036d38be3" testId="39373233-6331-6336-3039-616236303065" testName="Retorna_uma_exception_GetSqlServer_se_passa_source_catalog_vazio" computerName="VGA-DES" duration="00:00:00.0010000" startTime="2010-09-23T17:53:55.6093750-03:00" endTime="2010-09-23T17:53:55.6093750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4232a103-f9d9-4bb8-b5f5-3e3036d38be3">
+    </GallioTestResult>
+    <GallioTestResult executionId="b609f4f7-4888-4ac8-9cd6-5d4e4ea17187" testId="39613033-3837-6161-6335-616539643436" testName="Retorna_a_tabela_do_campo_chaveEstrageira_de_tabela_do_banco_Northwind" computerName="VGA-DES" duration="00:00:00.0040000" startTime="2010-09-23T17:53:55.9218750-03:00" endTime="2010-09-23T17:53:55.9218750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b609f4f7-4888-4ac8-9cd6-5d4e4ea17187">
+    </GallioTestResult>
+    <GallioTestResult executionId="e45c175a-66cf-40b4-ba98-9f04191e54d3" testId="39633232-6234-6166-3237-333439303663" testName="Retorna_a_quantidade_de_campos_de_uma_tabelas_do_banco_Northwind" computerName="VGA-DES" duration="00:00:00.0030000" startTime="2010-09-23T17:53:55.8593750-03:00" endTime="2010-09-23T17:53:55.8593750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e45c175a-66cf-40b4-ba98-9f04191e54d3">
+    </GallioTestResult>
+    <GallioTestResult executionId="68afb443-a91e-43d5-b28f-a53f8ec468f1" testId="39633632-3239-3862-6363-303537303936" testName="Retorna_uma_class_tipo_ConexaoOracle" computerName="VGA-DES" duration="00:00:00.0030000" startTime="2010-09-23T17:53:54.8593750-03:00" endTime="2010-09-23T17:53:54.8593750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="68afb443-a91e-43d5-b28f-a53f8ec468f1">
+    </GallioTestResult>
+    <GallioTestResult executionId="92aaa487-7a4f-4223-9291-45dd6dd5b9d5" testId="61336661-3136-3139-6236-643537363934" testName="Passado_uma_string_para_minisculo" computerName="VGA-DES" duration="00:00:00.0010000" startTime="2010-09-23T17:53:56.2968750-03:00" endTime="2010-09-23T17:53:56.3125000-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="92aaa487-7a4f-4223-9291-45dd6dd5b9d5">
+    </GallioTestResult>
+    <GallioTestResult executionId="9e6b126f-61e3-4551-a494-6a6327996853" testId="61646461-6230-6264-3531-643634303530" testName="passado_uma_lista_string_cria_as_interface" computerName="VGA-DES" duration="00:00:00.0030000" startTime="2010-09-23T17:53:55.0781250-03:00" endTime="2010-09-23T17:53:55.0781250-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9e6b126f-61e3-4551-a494-6a6327996853">
+    </GallioTestResult>
+    <GallioTestResult executionId="a7cd7c7a-2c91-4a80-8279-3d938e33c043" testId="61653331-3838-3561-3966-653338316466" testName="passando_lista_campos_ele_retorna_StringBilderpropetyAutomaticas_true" computerName="VGA-DES" duration="00:00:00.0060000" startTime="2010-09-23T17:53:55.1718750-03:00" endTime="2010-09-23T17:53:55.1718750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a7cd7c7a-2c91-4a80-8279-3d938e33c043">
+    </GallioTestResult>
+    <GallioTestResult executionId="59ab917c-bc30-4f55-a648-2fea556c6f4d" testId="62303138-3631-3537-3931-376332376261" testName="Retorna_a_quantidade_de_campos_chaves_de_uma_tabelas_do_banco_Northwind" computerName="VGA-DES" duration="00:00:00.0050000" startTime="2010-09-23T17:53:55.8281250-03:00" endTime="2010-09-23T17:53:55.8281250-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="59ab917c-bc30-4f55-a648-2fea556c6f4d">
+    </GallioTestResult>
+    <GallioTestResult executionId="28e62334-3eee-4fef-84a8-6b461ff9095e" testId="62303737-3831-3730-3964-653033633038" testName="Retorna_o_tipo_dado_do_campo_de_acordo_com_banco_Northwind" computerName="VGA-DES" duration="00:00:00.0060000" startTime="2010-09-23T17:53:56.1250000-03:00" endTime="2010-09-23T17:53:56.1406250-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="28e62334-3eee-4fef-84a8-6b461ff9095e">
+    </GallioTestResult>
+    <GallioTestResult executionId="9c884abb-3784-44ce-b504-07c913848d27" testId="62373335-3032-6364-6234-613763376320" testName="Retorna_o_tanho_de_um_campo_string_tabelas_do_banco_Northwind" computerName="VGA-DES" duration="00:00:00.0030000" startTime="2010-09-23T17:53:56.0937500-03:00" endTime="2010-09-23T17:53:56.1093750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9c884abb-3784-44ce-b504-07c913848d27">
+    </GallioTestResult>
+    <GallioTestResult executionId="4ba26da7-fc1d-4ca9-8b0a-fc61ad6d558b" testId="62376364-3761-6633-6261-616133653666" testName="Retorna_uma_exception_passando_uma_string_vazia" computerName="VGA-DES" duration="00:00:00.0040000" startTime="2010-09-23T17:53:56.2343750-03:00" endTime="2010-09-23T17:53:56.2343750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4ba26da7-fc1d-4ca9-8b0a-fc61ad6d558b">
+    </GallioTestResult>
+    <GallioTestResult executionId="72b76302-f9eb-4472-b1af-800972a84e30" testId="62393162-3532-3465-3430-376630313932" testName="Retorna_uma_class_ConexaoSqlServer" computerName="VGA-DES" duration="00:00:00.0020000" startTime="2010-09-23T17:53:54.8125000-03:00" endTime="2010-09-23T17:53:54.8281250-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="72b76302-f9eb-4472-b1af-800972a84e30">
+    </GallioTestResult>
+    <GallioTestResult executionId="a9158812-f2cf-4466-9210-4351bec422a3" testId="62623361-6230-3536-6364-333337666265" testName="Passando_source_e_base_ele_retrona_uma_conexao" computerName="VGA-DES" duration="00:00:00.1740000" startTime="2010-09-23T17:53:54.5312500-03:00" endTime="2010-09-23T17:53:54.6875000-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a9158812-f2cf-4466-9210-4351bec422a3">
+    </GallioTestResult>
+    <GallioTestResult executionId="83c48914-b418-48f1-b0c1-44d9b871adda" testId="63343133-3130-6230-6661-333762386137" testName="Retorna_uma_exception_GetSqlServer_se_passa_source_vazio" computerName="VGA-DES" duration="00:00:00.0010000" startTime="2010-09-23T17:53:55.6718750-03:00" endTime="2010-09-23T17:53:55.6718750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="83c48914-b418-48f1-b0c1-44d9b871adda">
+    </GallioTestResult>
+    <GallioTestResult executionId="c894a566-89b7-4cd8-83e8-d67d247e9934" testId="63343766-3562-3532-3861-336536613932" testName="Retorna_uma_class_ConexaoOracle" computerName="VGA-DES" duration="00:00:00.0010000" startTime="2010-09-23T17:53:54.7968750-03:00" endTime="2010-09-23T17:53:54.7968750-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c894a566-89b7-4cd8-83e8-d67d247e9934">
+    </GallioTestResult>
+    <GallioTestResult executionId="bf882fbd-6029-4e1e-90d1-68bd6f6299cd" testId="63373332-6164-3935-6536-616337316435" testName="Retorna_uma_exception_se_passado_nome_vazio_e_retira_s" computerName="VGA-DES" duration="00:00:00.0020000" startTime="2010-09-23T17:53:56.5625000-03:00" endTime="2010-09-23T17:53:56.5625000-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bf882fbd-6029-4e1e-90d1-68bd6f6299cd">
+    </GallioTestResult>
+    <GallioTestResult executionId="563b39ff-cff2-449b-99c8-4ccf861e1d1d" testId="63373763-3439-3966-3330-633433653937" testName="Retorna_o_campo_chaveEstrageira_de_tabela_do_banco_Northwind" computerName="VGA-DES" duration="00:00:00.0090000" startTime="2010-09-23T17:53:56.0156250-03:00" endTime="2010-09-23T17:53:56.0156250-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="563b39ff-cff2-449b-99c8-4ccf861e1d1d">
+    </GallioTestResult>
+    <GallioTestResult executionId="e4ae2b12-b98e-48be-a6dd-72729ab8f399" testId="64323338-6433-3038-3732-333061323061" testName="dado_uma_lista_string_cria_arquivo_no_diretorio" computerName="VGA-DES" duration="00:00:00.0180000" startTime="2010-09-23T17:53:54.9687500-03:00" endTime="2010-09-23T17:53:54.9687500-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e4ae2b12-b98e-48be-a6dd-72729ab8f399">
+    </GallioTestResult>
+    <GallioTestResult executionId="8614ca8d-f378-44ba-99e0-6a41634597af" testId="64356466-3863-3837-3766-313038303435" testName="Passado_um_campo_e_uma_tabela_do_banco_Northwind_ele_retorna_se_e_Identity" computerName="VGA-DES" duration="00:00:00.0110000" startTime="2010-09-23T17:53:55.7031250-03:00" endTime="2010-09-23T17:53:55.7187500-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8614ca8d-f378-44ba-99e0-6a41634597af">
+    </GallioTestResult>
+    <GallioTestResult executionId="d7b78c53-5e76-4399-898c-e9cd573478a2" testId="64363634-3431-3561-3264-633432323233" testName="Retorna_uma_exception_para_cria_diretorio_se_caminho_vazinho" computerName="VGA-DES" duration="00:00:00.0020000" startTime="2010-09-23T17:53:55.2812500-03:00" endTime="2010-09-23T17:53:55.2812500-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d7b78c53-5e76-4399-898c-e9cd573478a2">
+    </GallioTestResult>
+    <GallioTestResult executionId="065fd016-7457-4e74-b3f1-a0d8299ce921" testId="64383266-3736-3338-3533-383166353939" testName="Passado_so_Souce_Catalog_Tem_que_retorna_string_conexao" computerName="VGA-DES" duration="00:00:00.0010000" startTime="2010-09-23T17:53:55.4843750-03:00" endTime="2010-09-23T17:53:55.5000000-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="065fd016-7457-4e74-b3f1-a0d8299ce921">
+    </GallioTestResult>
+    <GallioTestResult executionId="050c9219-901c-4487-88bf-888a041716d8" testId="64663762-3535-3766-3130-386538623232" testName="Retorna_uma_class_tipo_ConexaoSqlServe" computerName="VGA-DES" duration="00:00:00.0090000" startTime="2010-09-23T17:53:54.8906250-03:00" endTime="2010-09-23T17:53:54.8906250-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="050c9219-901c-4487-88bf-888a041716d8">
+    </GallioTestResult>
+    <GallioTestResult executionId="bec6c4ca-aeb0-4a33-8937-2ec9888cb255" testId="65316534-3033-6337-3634-346562616333" testName="Retorna_uma_exception_GetOracle_se_passa_source_Catalog_id_password_vazio" computerName="VGA-DES" duration="00:00:00.0020000" startTime="2010-09-23T17:53:55.5781250-03:00" endTime="2010-09-23T17:53:55.5781250-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bec6c4ca-aeb0-4a33-8937-2ec9888cb255">
+    </GallioTestResult>
+    <GallioTestResult executionId="227bdb15-8dd1-4bea-81a7-a91c99b7ea97" testId="65373936-3430-3764-3363-653437323639" testName="Passado_uma_tabela_do_banco_Northwind_ele_retorna_seus_relacionamentos" computerName="VGA-DES" duration="00:00:00.0270000" startTime="2010-09-23T17:53:55.7343750-03:00" endTime="2010-09-23T17:53:55.7500000-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="227bdb15-8dd1-4bea-81a7-a91c99b7ea97">
+    </GallioTestResult>
+    <GallioTestResult executionId="91666004-a3d1-48c5-87d1-101755f874bd" testId="65386532-6261-6366-3930-393439336562" testName="Passado_uma_string_para_minisculo_e_retira_uderline_e_S_no_fim" computerName="VGA-DES" duration="00:00:00.0010000" startTime="2010-09-23T17:53:56.3906250-03:00" endTime="2010-09-23T17:53:56.3906250-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="91666004-a3d1-48c5-87d1-101755f874bd">
+    </GallioTestResult>
+    <GallioTestResult executionId="33c66a6e-d5de-4e82-91b9-6930a82c6cfb" testId="65663261-3262-3739-3832-306437396632" testName="passando_lista_campos_ele_retorna_StringBilder_propetyAutomaticas_false" computerName="VGA-DES" duration="00:00:00.0050000" startTime="2010-09-23T17:53:55.1406250-03:00" endTime="2010-09-23T17:53:55.1406250-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="33c66a6e-d5de-4e82-91b9-6930a82c6cfb">
+    </GallioTestResult>
+    <GallioTestResult executionId="3587f762-1548-43c2-8281-21c8321c26ac" testId="66303835-6263-6664-3137-353133326431" testName="verifica_se_existe_diretorio" computerName="VGA-DES" duration="00:00:00.0040000" startTime="2010-09-23T17:53:55.3750000-03:00" endTime="2010-09-23T17:53:55.3906250-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3587f762-1548-43c2-8281-21c8321c26ac">
+    </GallioTestResult>
+    <GallioTestResult executionId="dfc203a2-55f7-46e0-86e4-3f34ca63a2f1" testId="66336664-3136-3463-6432-333162663537" testName="nao_passando_source_e_base_ele_retorna_uma_null" computerName="VGA-DES" duration="00:00:14.5400000" startTime="2010-09-23T17:53:39.9531250-03:00" endTime="2010-09-23T17:53:54.5000000-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dfc203a2-55f7-46e0-86e4-3f34ca63a2f1">
+    </GallioTestResult>
+    <GallioTestResult executionId="12f527b2-331f-4b3a-9080-a5964aee2bd1" testId="66663865-3532-6431-3139-323232356631" testName="passa_um_tipo_do_banco_de_dados_retorna_um_tipo_do_CShap" computerName="VGA-DES" duration="00:00:00.0190000" startTime="2010-09-23T17:53:55.0000000-03:00" endTime="2010-09-23T17:53:55.0000000-03:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="12f527b2-331f-4b3a-9080-a5964aee2bd1">
+    </GallioTestResult>
+  </Results>
+</TestRun>
